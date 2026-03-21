@@ -20,12 +20,38 @@ RESULTS_DIR     = OUTPUT_DIR / 'results'
 for d in [OUTPUT_DIR, FIGURES_DIR, TABLES_DIR, MAPS_DIR, RESULTS_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
+# Primary dataset (1,807 samples x 45 features) — download from Zenodo
 INTEGRATED_FILE = HYPO1_OUTPUT / 'bangladesh_groundwater_arsenic_1807samples.csv'
-WEATHER_FILE    = DATA_DIR / 'weatherData.csv'
+WEATHER_FILE    = DATA_DIR / 'weatherData.csv'    # ERA5 weather data (separate download)
 
-# ─── TARGET & CONSTANTS ───────────────────────────────────────────────────────
-TARGET       = 'As'
-WHO_AS_LIMIT = 10.0    # µg/L
+# ─── COLUMN DEFINITIONS (matching the integrated CSV) ────────────────────────
+# Metadata columns
+COL_SAMPLE_ID = 'Sample ID'
+COL_DISTRICT  = 'District'
+COL_UPAZILA   = 'Upazila'
+COL_DATE      = 'Date'
+COL_LATITUDE  = 'Latitude'
+COL_LONGITUDE = 'Longitude'
+COL_DEPTH     = 'Depth'
+COL_SEASON    = 'Season'          # 'Dry' or 'Wet'
+COL_GW        = 'GW'             # Groundwater level
+
+# Target variable
+TARGET       = 'As'               # Arsenic (µg/L)
+WHO_AS_LIMIT = 10.0               # µg/L
+
+# Field-measured water quality parameters
+WATER_QUALITY_PARAMS = ['pH', 'DO', 'EC', 'TDS', 'Salinity', 'Temperature', 'Turbidity', 'ORP']
+
+# Derived ion ratios (computed during integration)
+ION_RATIOS = ['HCO3_Cl_ratio', 'Na_Cl_ratio', 'Ca_Mg_ratio',
+              'Fe_Mn_ratio', 'As_Fe_ratio', 'SO4_Cl_ratio', 'PO4_Cl_ratio']
+
+# Quality control columns
+COL_CBE_PERCENT = 'CBE_percent'   # Charge balance error (%)
+COL_CBE_QUALITY = 'CBE_Quality'   # 'Excellent', 'Acceptable', 'Poor'
+
+# ─── CONSTANTS ───────────────────────────────────────────────────────────────
 ALPHA        = 0.05
 RANDOM_STATE = 42
 DPI          = 300

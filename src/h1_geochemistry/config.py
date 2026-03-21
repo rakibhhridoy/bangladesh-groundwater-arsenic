@@ -19,27 +19,45 @@ for dir_path in [OUTPUT_DIR, FIGURES_DIR, TABLES_DIR, RESULTS_DIR]:
     dir_path.mkdir(parents=True, exist_ok=True)
 
 # Data file paths
-DATA_FILE = DATA_DIR / 'Data.csv'
-DRY_SEASON_FILE = DATA_DIR / 'DrySeason.csv'
-WET_SEASON_FILE = DATA_DIR / 'WetSeason.csv'
-CHEMICAL_DRY_FILE = DATA_DIR / 'ChemicalDry.csv'
-CHEMICAL_WET_FILE = DATA_DIR / 'ChemicalWet.csv'
+# Primary dataset (1,807 samples x 45 features) — download from Zenodo
+DATA_FILE = DATA_DIR / 'bangladesh_groundwater_arsenic_1807samples.csv'
 
-# Ion list (18 ions as per methodology)
+# ── Column definitions (matching the integrated CSV) ──
+# Metadata columns
+COL_SAMPLE_ID = 'Sample ID'
+COL_DISTRICT  = 'District'
+COL_UPAZILA   = 'Upazila'
+COL_DATE      = 'Date'
+COL_LATITUDE  = 'Latitude'
+COL_LONGITUDE = 'Longitude'
+COL_DEPTH     = 'Depth'
+COL_SEASON    = 'Season'          # 'Dry' or 'Wet'
+COL_GW        = 'GW'             # Groundwater level
+
+# 18 ions (mg/L)
 IONS = ['Na+', 'K+', 'Mg2+', 'Ca2+', 'NO3-', 'SO42-', 'PO43-', 'CO3-',
         'HCO3-', 'Cl-', 'Br-', 'I-', 'Al3+', 'Cu2+', 'Fe2+', 'Mn2+', 'Cr3+', 'B+']
 
 # Target variable
-TARGET = 'As'
+TARGET = 'As'                     # Arsenic (µg/L)
 
+# Field-measured water quality parameters
+WATER_QUALITY_PARAMS = ['pH', 'DO', 'EC', 'TDS', 'Salinity', 'Temperature', 'Turbidity', 'ORP']
+
+# Derived ion ratios (computed during integration)
+ION_RATIOS = ['HCO3_Cl_ratio', 'Na_Cl_ratio', 'Ca_Mg_ratio',
+              'Fe_Mn_ratio', 'As_Fe_ratio', 'SO4_Cl_ratio', 'PO4_Cl_ratio']
+
+# Quality control columns
+COL_CBE_PERCENT = 'CBE_percent'   # Charge balance error (%)
+COL_CBE_QUALITY = 'CBE_Quality'   # 'Excellent', 'Acceptable', 'Poor'
+
+# ── Analysis groupings ──
 # Redox-sensitive ions (Hypothesis 1 focus)
 REDOX_IONS = ['Fe2+', 'HCO3-', 'SO42-']
 
 # Secondary variables for interpretation
 SECONDARY_IONS = ['Na+', 'Cl-', 'Ca2+', 'Mg2+']
-
-# Water quality parameters
-WATER_QUALITY_PARAMS = ['pH', 'DO', 'EC', 'TDS', 'Salinity', 'Temperature', 'Turbidity', 'ORP']
 
 # Spatial variables
 SPATIAL_VARS = ['Latitude', 'Longitude', 'District', 'Upazila']

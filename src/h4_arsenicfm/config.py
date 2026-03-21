@@ -31,9 +31,17 @@ SENTINEL_BANDS = ['WVP', 'B8A', 'B8', 'B5', 'B2', 'B3', 'B4']
 SENTINEL_SCALE = 10000.0   # divide raw DN → reflectance [0,1]
 N_SENTINEL     = 1808      # total TIF files
 
-# Source datasets
+# Primary dataset (1,807 samples x 45 features) — download from Zenodo
 INTEGRATED_FILE = HYPO1_OUTPUT / 'bangladesh_groundwater_arsenic_1807samples.csv'
 SAT_TABLE       = HYPO1_OUTPUT / 'tables' / 'Table_12_satellite_features.csv'
+
+# ─── COLUMN DEFINITIONS (matching the integrated CSV) ────────────────────────
+# Metadata: Sample ID, District, Upazila, Date, Latitude, Longitude, Depth, Season, GW
+# 18 ions (mg/L): Na+, K+, Mg2+, Ca2+, NO3-, SO42-, PO43-, CO3-, HCO3-, Cl-, Br-, I-, Al3+, Cu2+, Fe2+, Mn2+, Cr3+, B+
+# Target: As (µg/L)
+# Field params: pH, DO, EC, TDS, Salinity, Temperature, Turbidity, ORP
+# Derived ratios: HCO3_Cl_ratio, Na_Cl_ratio, Ca_Mg_ratio, Fe_Mn_ratio, As_Fe_ratio, SO4_Cl_ratio, PO4_Cl_ratio
+# Quality: CBE_percent, CBE_Quality
 
 # ─── ALPHA EARTH ──────────────────────────────────────────────────────────────
 # Set environment variable ALPHA_EARTH_API_KEY before running if available
