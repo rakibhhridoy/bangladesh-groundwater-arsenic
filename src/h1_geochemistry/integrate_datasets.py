@@ -10,7 +10,7 @@ Input tables:
 - Data.csv (original groundwater data)
 
 Output:
-- data_phase1_integrated.csv (1,807 samples × ~60 features)
+- bangladesh_groundwater_arsenic_1807samples.csv (1,807 samples × ~60 features)
 
 This integrated dataset is used for all Phase 2-4 analyses
 """
@@ -158,7 +158,7 @@ def create_integrated_dataset():
         print(f"   - Satellite features: {len(sat_cols)}")
 
     # Save integrated dataset
-    output_path = OUTPUT_DIR / 'data_phase1_integrated.csv'
+    output_path = OUTPUT_DIR / 'bangladesh_groundwater_arsenic_1807samples.csv'
     df_integrated.to_csv(output_path, index=False)
     print(f"\n9. Saving integrated dataset...")
     print(f"   Saved to: {output_path}")

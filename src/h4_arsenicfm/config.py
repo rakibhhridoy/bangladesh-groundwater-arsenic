@@ -32,7 +32,7 @@ SENTINEL_SCALE = 10000.0   # divide raw DN → reflectance [0,1]
 N_SENTINEL     = 1808      # total TIF files
 
 # Source datasets
-INTEGRATED_FILE = HYPO1_OUTPUT / 'data_phase1_integrated.csv'
+INTEGRATED_FILE = HYPO1_OUTPUT / 'bangladesh_groundwater_arsenic_1807samples.csv'
 SAT_TABLE       = HYPO1_OUTPUT / 'tables' / 'Table_12_satellite_features.csv'
 
 # ─── ALPHA EARTH ──────────────────────────────────────────────────────────────

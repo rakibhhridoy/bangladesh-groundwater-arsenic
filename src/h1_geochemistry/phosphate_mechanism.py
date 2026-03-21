@@ -371,7 +371,7 @@ def run_phosphate_mechanism_analysis(df):
 
 if __name__ == "__main__":
     print("Loading integrated dataset...")
-    df = pd.read_csv(OUTPUT_DIR / 'data_phase1_integrated.csv')
+    df = pd.read_csv(OUTPUT_DIR / 'bangladesh_groundwater_arsenic_1807samples.csv')
 
     results = run_phosphate_mechanism_analysis(df)
     print("\nPhosphate mechanism analysis results saved.")

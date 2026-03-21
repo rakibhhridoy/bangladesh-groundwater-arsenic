@@ -301,7 +301,7 @@ def main():
 
         # Expand to 1807 rows if needed
         n_rows = embeddings_64.shape[0]
-        integrated = Path('/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/data_phase1_integrated.csv')
+        integrated = Path('/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv')
         if n_rows != 1807 and integrated.exists():
             print(f"\n  Expanding {n_rows} unique-location embeddings → 1807 dataset rows...")
             embeddings_1807 = expand_to_dataset(embeddings_64, loc_ids, integrated)

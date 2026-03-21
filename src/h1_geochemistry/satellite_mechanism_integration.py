@@ -301,7 +301,7 @@ def run_satellite_mechanism_integration(df):
 
 if __name__ == "__main__":
     print("Loading integrated dataset...")
-    df = pd.read_csv(OUTPUT_DIR / 'data_phase1_integrated.csv')
+    df = pd.read_csv(OUTPUT_DIR / 'bangladesh_groundwater_arsenic_1807samples.csv')
 
     results = run_satellite_mechanism_integration(df)
     if results:

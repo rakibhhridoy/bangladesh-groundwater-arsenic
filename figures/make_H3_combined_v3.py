@@ -137,7 +137,7 @@ ax.text(-0.08, 1.05, "(B)", transform=ax.transAxes, fontsize=16, fontweight="bol
 # ================================================================
 ax = axes[1, 0]
 
-df = pd.read_csv("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/data_phase1_integrated.csv")
+df = pd.read_csv("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv")
 
 # Assign depth zones
 def assign_depth_zone(d):

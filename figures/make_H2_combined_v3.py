@@ -12,7 +12,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ── Load data ──
-df = pd.read_csv("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/data_phase1_integrated.csv")
+df = pd.read_csv("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv")
 
 # ── Depth zone assignment ──
 bins = [0, 30, 80, 150, np.inf]

@@ -23,7 +23,7 @@ for d in [OUTPUT_DIR, FIGURES_DIR, TABLES_DIR, MAPS_DIR, RESULTS_DIR]:
 
 # Data sources
 DATA_FILE     = DATA_DIR / 'Data.csv'
-INTEGRATED_FILE = HYPO1_OUTPUT / 'data_phase1_integrated.csv'  # 45-feature dataset from hypo1
+INTEGRATED_FILE = HYPO1_OUTPUT / 'bangladesh_groundwater_arsenic_1807samples.csv'  # 45-feature dataset from hypo1
 
 # ─────────────────────────────────────────────
 # TARGET & IONS

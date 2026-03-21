@@ -28,7 +28,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from config import (TARGET, FIGURES_DIR, TABLES_DIR, DPI,
                     DEPTH_ZONE_LABELS)
 
-DATA = Path(__file__).parent.parent / 'hypo1' / 'output' / 'data_phase1_integrated.csv'
+DATA = Path(__file__).parent.parent / 'hypo1' / 'output' / 'bangladesh_groundwater_arsenic_1807samples.csv'
 
 ZONES_TO_RUN = ['ALL'] + DEPTH_ZONE_LABELS
 

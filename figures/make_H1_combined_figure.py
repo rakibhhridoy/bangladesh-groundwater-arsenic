@@ -20,7 +20,7 @@ warnings.filterwarnings('ignore')
 
 # ── Paths ───────────────────────────────────────────────────────────────────
 BASE        = '/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output'
-DATA_CSV    = f'{BASE}/data_phase1_integrated.csv'
+DATA_CSV    = f'{BASE}/bangladesh_groundwater_arsenic_1807samples.csv'
 TABLE23_CSV = f'{BASE}/tables/Table_23_water_type_statistics.csv'
 TABLE26_CSV = f'{BASE}/tables/Table_26_province_clustering.csv'
 OUT_PNG     = f'{BASE}/figures/H1_combined_figure.png'

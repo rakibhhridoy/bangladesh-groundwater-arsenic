@@ -13,7 +13,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ── Load data ────────────────────────────────────────────────────────────────
-DATA = "/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/data_phase1_integrated.csv"
+DATA = "/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv"
 PROV = "/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/tables/Table_26_province_clustering.csv"
 OUT  = "/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/figures/H1_combined_figure.png"
 

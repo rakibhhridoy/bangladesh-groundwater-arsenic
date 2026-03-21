@@ -19,7 +19,7 @@ from pathlib import Path
 ROOT    = Path(__file__).parent.parent
 H1_OUT  = ROOT / 'hypo1' / 'output' / 'tables'
 H2_OUT  = ROOT / 'hypo2' / 'output' / 'tables'
-DATA    = ROOT / 'hypo1' / 'output' / 'data_phase1_integrated.csv'
+DATA    = ROOT / 'hypo1' / 'output' / 'bangladesh_groundwater_arsenic_1807samples.csv'
 ALPHA   = 0.05
 
 def collect_h1_tests(df):

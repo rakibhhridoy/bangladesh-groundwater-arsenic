@@ -35,7 +35,7 @@ TABLES_DIR   = HYPO3_OUT / 'tables'
 FIGURES_DIR  = HYPO3_OUT / 'figures'
 DATA_DIR     = PROJECT_ROOT / 'data'
 
-INTEGRATED_FILE = HYPO1_OUT / 'data_phase1_integrated.csv'
+INTEGRATED_FILE = HYPO1_OUT / 'bangladesh_groundwater_arsenic_1807samples.csv'
 WORLDPOP_FILE   = DATA_DIR / 'bgd_ppp_2020_1km_Aggregated.tif'
 WORLDPOP_URL    = (
     'https://data.worldpop.org/GIS/Population/Global_2000_2020_1km/'

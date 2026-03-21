@@ -18,7 +18,7 @@ import os
 # ── Paths ───────────────────────────────────────────────────────────────────
 BASE     = '/Users/rakibhhridoy/AsGW/GroundWater'
 TABLES   = f'{BASE}/hypo2/output/tables'
-MAIN_CSV = f'{BASE}/hypo1/output/data_phase1_integrated.csv'
+MAIN_CSV = f'{BASE}/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv'
 OUT_PNG  = f'{BASE}/hypo2/output/figures/H2_combined_figure.png'
 
 # ── Palette & zone order ─────────────────────────────────────────────────────

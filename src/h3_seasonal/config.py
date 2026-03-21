@@ -20,7 +20,7 @@ RESULTS_DIR     = OUTPUT_DIR / 'results'
 for d in [OUTPUT_DIR, FIGURES_DIR, TABLES_DIR, MAPS_DIR, RESULTS_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
-INTEGRATED_FILE = HYPO1_OUTPUT / 'data_phase1_integrated.csv'
+INTEGRATED_FILE = HYPO1_OUTPUT / 'bangladesh_groundwater_arsenic_1807samples.csv'
 WEATHER_FILE    = DATA_DIR / 'weatherData.csv'
 
 # ─── TARGET & CONSTANTS ───────────────────────────────────────────────────────

@@ -39,7 +39,7 @@ figures/
 
 ## Data Availability
 
-The geochemical dataset (1,807 samples x 45 features) is archived on Zenodo:
+The geochemical dataset (`bangladesh_groundwater_arsenic_1807samples.csv`, 1,807 samples x 45 features) is archived on Zenodo:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 

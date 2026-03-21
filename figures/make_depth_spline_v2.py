@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 
 # ── Paths ─────────────────────────────────────────────────────────────────
 BASE     = '/Users/rakibhhridoy/AsGW/GroundWater'
-DATA_CSV = f'{BASE}/hypo1/output/data_phase1_integrated.csv'
+DATA_CSV = f'{BASE}/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv'
 OUT_PNG  = f'{BASE}/hypo2/output/figures/H2_F_depth_spline.png'
 
 # ── Blue palette (matching H1/H2) ────────────────────────────────────────

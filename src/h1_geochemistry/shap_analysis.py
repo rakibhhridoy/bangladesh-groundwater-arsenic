@@ -40,7 +40,7 @@ plt.rcParams['savefig.dpi'] = 300
 plt.rcParams['font.size'] = 10
 
 # Configuration
-DATA_PATH = Path("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/data_phase1_integrated.csv")
+DATA_PATH = Path("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/bangladesh_groundwater_arsenic_1807samples.csv")
 OUTPUT_DIR = Path("/Users/rakibhhridoy/AsGW/GroundWater/hypo1/output/advanced_stats")
 OUTPUT_DIR.mkdir(exist_ok=True)
 
