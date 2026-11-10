@@ -5,3 +5,5 @@ __pycache__/
 .env
 .venv/
 *.log
+revision_r2/output/
+data/

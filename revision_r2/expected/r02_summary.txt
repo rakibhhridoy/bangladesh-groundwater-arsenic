@@ -1,0 +1,43 @@
+N samples 1662 wells 859
+deposit type: eps2=0.135 H=238.2 k=17
+4 depth classes: eps2=0.008 H=16.1
+
+[1] equal granularity: depth in k quantile bins
+  depth 4 bins eps2=0.008
+  depth 8 bins eps2=0.016
+  depth 12 bins eps2=0.022
+  depth 17 bins eps2=0.048
+  depth 25 bins eps2=0.038
+  Spearman As~depth rho=-0.082  rho^2=0.0067
+
+[2] 10-fold CV R2 on rank(As), grouped folds by well
+  depth linear                 in-sample R2=0.008 adjR2=0.007 CV R2=0.007
+  depth spline df4             in-sample R2=0.013 adjR2=0.010 CV R2=0.008
+  depth spline df8             in-sample R2=0.018 adjR2=0.013 CV R2=0.008
+  depth spline df16            in-sample R2=0.042 adjR2=0.032 CV R2=0.021
+  deposit type                 in-sample R2=0.143 adjR2=0.135 CV R2=0.125
+  deposit + depth spline df4   in-sample R2=0.161 adjR2=0.151 CV R2=0.138
+  type-II partial R2 (share of total SS) in joint model:
+    C(GLG)           SS/SST=0.149  F=18.2 p=5.9e-48
+    bs(ld, df=4, lower_bound=LB, upper_bound=UB) SS/SST=0.018  F=8.8 p=4.8e-07
+
+[3] deposit type on depth-residualised rank(As): eps2=0.141 p=1.3e-43
+[4] well-level: n wells=859 deposit eps2=0.199  depth-class eps2=0.010
+
+[5] shallow-only test (cluster bootstrap 95% CI by well, B=2000)
+  <30 m    n=378 eps2 deposit=0.152 (k=9) | HOL n=90 wells=51 55.6% [44.1,67.7] | OLD n=68 wells=37 4.4% [0.0,10.1] | As MWU p=1e-14 | PO4 med HOL 1.53 OLD 0.37 p=2e-09
+  <50 m    n=712 eps2 deposit=0.178 (k=13) | HOL n=251 wells=133 58.2% [51.0,65.1] | OLD n=101 wells=54 3.0% [0.0,6.2] | As MWU p=3e-29 | PO4 med HOL 1.55 OLD 0.40 p=4e-18
+  <70 m    n=813 eps2 deposit=0.163 (k=13) | HOL n=289 wells=152 57.4% [50.7,64.4] | OLD n=113 wells=60 3.5% [0.9,7.1] | As MWU p=4e-29 | PO4 med HOL 1.48 OLD 0.43 p=2e-16
+  all      n=1662 eps2 deposit=0.135 (k=17) | HOL n=740 wells=380 46.4% [42.3,50.4] | OLD n=182 wells=96 3.8% [1.6,6.6] | As MWU p=1e-35 | PO4 med HOL 1.25 OLD 0.55 p=1e-17
+
+[6] HOL vs OLD exceedance within depth class; Mantel-Haenszel
+  S: HOL 90 55.6% (median depth 23) | OLD 68 4.4% (median depth 25)
+  I: HOL 216 56.5% (median depth 33) | OLD 59 3.4% (median depth 47)
+  MD: HOL 266 42.5% (median depth 91) | OLD 18 5.6% (median depth 116)
+  D: HOL 168 34.5% (median depth 237) | OLD 37 2.7% (median depth 258)
+  MH pooled OR=18.9 95%CI (np.float64(9.369288204493847), np.float64(38.30552882905645)) p=0; homogeneity p=0.64
+
+[7] depth-matched HOL vs OLD (nearest depth, caliper 5 m, 1:1 by sample)
+  matched pairs=178: OLD 3.9% vs HOL 43.8%; median depth 41 vs 41; Wilcoxon p=3.8e-17
+
+[8] IDs spanning two deposit types: 26; excluding them n=1610 wells=833 eps2=0.137 | HOL 46.3% (n=717) OLD 3.9% (n=180)

@@ -1,0 +1,10 @@
+n=1802 wells=928 spatial 1-degree blocks=23
+  random 5-fold (as in manuscript)   R2 all 0.352 | <30:0.421 30-80:0.411 80-150:0.286 >150:0.112
+  grouped by well, 5-fold            R2 all 0.335 | <30:0.397 30-80:0.384 80-150:0.300 >150:0.077
+  spatial 1-degree blocks, 5-fold    R2 all 0.284 | <30:0.346 30-80:0.329 80-150:0.223 >150:0.082
+
+within-class models, grouped-by-well 5-fold CV, and SHAP share (mean |SHAP| %) with bootstrap rank stability (B=50)
+  <30     n= 402 CV R2=0.270 | SHAP PO4 34.0% (rank median 1, 90% [1 2]) Fe 4.0% (rank 7, [ 4 12]) HCO3 8.4% (rank 3) | top4 ['PO43-', 'ORP', 'HCO3-', 'TDS']
+  30-80   n= 544 CV R2=0.380 | SHAP PO4 24.9% (rank median 1, 90% [1 1]) Fe 7.4% (rank 4, [2 6]) HCO3 13.1% (rank 2) | top4 ['PO43-', 'HCO3-', 'ORP', 'Fe2+']
+  80-150  n= 482 CV R2=0.185 | SHAP PO4 20.1% (rank median 1, 90% [1 4]) Fe 12.6% (rank 3, [1 6]) HCO3 13.1% (rank 2) | top4 ['PO43-', 'HCO3-', 'Fe2+', 'ORP']
+  >150    n= 374 CV R2=0.162 | SHAP PO4 19.5% (rank median 2, 90% [1 6]) Fe 4.0% (rank 9, [ 4 13]) HCO3 14.3% (rank 3) | top4 ['PO43-', 'HCO3-', 'EC', 'Ca2+']

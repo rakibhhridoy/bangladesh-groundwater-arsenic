@@ -1,0 +1,7 @@
+distance to nearest inter-unit boundary (km): quantiles {0.1: 0.27, 0.25: 0.65, 0.5: 1.39, 0.75: 2.61, 0.9: 4.71}
+  >= 0.0 km from boundary: n=1662 (100%) eps2=0.135 (k=17) | HOL 740 46.4% | OLD 182 3.8% | PO4 1.25 vs 0.55
+  >= 0.5 km from boundary: n=1354 (81%) eps2=0.134 (k=15) | HOL 640 46.2% | OLD 135 3.7% | PO4 1.30 vs 0.49
+  >= 1.0 km from boundary: n= 992 (60%) eps2=0.130 (k=14) | HOL 448 47.8% | OLD 115 4.3% | PO4 1.34 vs 0.52
+  >= 2.0 km from boundary: n= 575 (35%) eps2=0.097 (k=12) | HOL 238 44.1% | OLD 70 5.7% | PO4 1.03 vs 0.40
+  >= 3.0 km from boundary: n= 335 (20%) eps2=0.125 (k=9) | HOL 128 43.0% | OLD 50 4.0% | PO4 0.95 vs 0.43
+  >= 5.0 km from boundary: n= 153 (9%) eps2=0.089 (k=4) | HOL 62 46.8% | OLD 28 7.1% | PO4 1.03 vs 0.36

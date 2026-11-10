@@ -1,0 +1,13 @@
+records 1807; truncated IDs 5 (['CDUM2LW-'])
+station IDs 924 (+ 5 truncated-ID records): in both campaigns 878, dry only 28, wet only 18
+paired IDs with depth disagreement >5 m: 19; with coordinates >1 km apart: 77; either: 92
+records flagged inconsistent (incl. truncated): 189
+As-PO4 rho all 0.343 | excluding flagged 0.326
+  all            As-PO4 by depth class: {'<30': np.float64(0.483), '30-80': np.float64(0.398), '80-150': np.float64(0.281), '>150': np.float64(0.109)}
+  excl. flagged  As-PO4 by depth class: {'<30': np.float64(0.449), '30-80': np.float64(0.392), '80-150': np.float64(0.273), '>150': np.float64(0.081)}
+  all            HOL 46.4% (n=740) vs OLD 3.8% (n=182)
+  excl. flagged  HOL 46.5% (n=650) vs OLD 4.1% (n=172)
+
+by campaign (Fe: UV-VIS wet, AAS dry; PO4 VIS both; BWDB 2023 Table 3-1)
+  Dry: As-PO4 0.437  As-Fe 0.316  As-HCO3 0.229  n=906
+  Wet: As-PO4 0.306  As-Fe 0.248  As-HCO3 0.345  n=901

@@ -1,0 +1,18 @@
+n=1806
+  Siderite        median SI +0.90  IQR [+0.23,+1.46]  supersaturated 80.7%  (>|0.5| 65.9%)
+  Vivianite       median SI +1.08  IQR [-1.41,+2.82]  supersaturated 61.6%  (>|0.5| 55.8%)
+  Calcite         median SI +0.12  IQR [-0.59,+0.81]  supersaturated 54.2%  (>|0.5| 35.5%)
+  Rhodochrosite   median SI -0.00  IQR [-0.58,+0.66]  supersaturated 49.7%  (>|0.5| 31.0%)
+  Hydroxyapatite  median SI +1.26  IQR [-1.64,+3.96]  supersaturated 61.6%  (>|0.5| 56.9%)
+siderite supersaturated % by depth class: {'<30': 73.2, '30-80': 82.0, '80-150': 81.6, '>150': 85.6}
+
+As-PO4 association by siderite saturation state
+  undersaturated SI<0          n= 349 As-PO4 +0.275 [+0.16,+0.38] p=2e-07 | As-PO4|Fe +0.265 [+0.15,+0.37] | As-Fe +0.085 | median Fe 0.28 PO4 0.64 As 1.36
+  near equilibrium |SI|<=0.5   n= 411 As-PO4 +0.274 [+0.17,+0.36] p=2e-08 | As-PO4|Fe +0.246 [+0.14,+0.34] | As-Fe +0.145 | median Fe 1.29 PO4 0.68 As 2.43
+  supersaturated SI>0          n=1457 As-PO4 +0.328 [+0.28,+0.38] p=6e-38 | As-PO4|Fe +0.277 [+0.23,+0.33] | As-Fe +0.204 | median Fe 3.70 PO4 1.07 As 5.26
+  strongly under SI<-0.5       n= 205 As-PO4 +0.238 [+0.09,+0.37] p=0.0006 | As-PO4|Fe +0.237 [+0.10,+0.37] | As-Fe +0.018 | median Fe 0.18 PO4 0.62 As 1.06
+  strongly super SI>0.5        n=1190 As-PO4 +0.321 [+0.27,+0.37] p=6e-30 | As-PO4|Fe +0.278 [+0.22,+0.33] | As-Fe +0.180 | median Fe 4.12 PO4 1.16 As 6.40
+
+rank regression rA ~ rPO4*supersat + rFe (cluster SE): rPO4 0.295 (p=2e-08); rPO4:supersat -0.019 (p=0.74)
+Spearman SI_siderite vs As +0.340; vs PO4 +0.268; vs Fe +0.590
+Vivianite supersaturated 61.6%; As-PO4 where vivianite undersaturated: -0.070 (n=694)

@@ -1,0 +1,106 @@
+[A] national
+  all                      n=1805 wells= 928 | As-PO4 rho=+0.343 [+0.30,+0.39] p=5e-51 | As-PO4|Fe +0.259 [+0.21,+0.31] | As-Fe rho=+0.283 [+0.23,+0.32] | As-Fe|PO4 +0.178
+[B] operational depth classes
+  <30 m                    n= 403 wells= 215 | As-PO4 rho=+0.483 [+0.40,+0.57] p=6e-25 | As-PO4|Fe +0.380 [+0.28,+0.48] | As-Fe rho=+0.345 [+0.25,+0.43] | As-Fe|PO4 +0.162
+  30-80 m                  n= 545 wells= 280 | As-PO4 rho=+0.399 [+0.31,+0.47] p=3e-22 | As-PO4|Fe +0.319 [+0.23,+0.40] | As-Fe rho=+0.277 [+0.20,+0.35] | As-Fe|PO4 +0.137
+  80-150 m                 n= 483 wells= 252 | As-PO4 rho=+0.281 [+0.19,+0.36] p=3e-10 | As-PO4|Fe +0.204 [+0.11,+0.29] | As-Fe rho=+0.288 [+0.21,+0.37] | As-Fe|PO4 +0.216
+  >150 m                   n= 374 wells= 195 | As-PO4 rho=+0.108 [+0.01,+0.21] p=0.04 | As-PO4|Fe +0.069 [-0.04,+0.18] | As-Fe rho=+0.151 [+0.05,+0.25] | As-Fe|PO4 +0.129
+[C] depth class x depositional age
+  Holocene <30 m           n=  90 wells=  51 | As-PO4 rho=+0.551 [+0.40,+0.68] p=2e-08 | As-PO4|Fe +0.463 [+0.28,+0.61] | As-Fe rho=+0.383 [+0.16,+0.58] | As-Fe|PO4 +0.195
+  Holocene 30-80 m         n= 216 wells= 112 | As-PO4 rho=+0.381 [+0.24,+0.50] p=7e-09 | As-PO4|Fe +0.298 [+0.15,+0.42] | As-Fe rho=+0.306 [+0.18,+0.43] | As-Fe|PO4 +0.189
+  Holocene 80-150 m        n= 266 wells= 136 | As-PO4 rho=+0.330 [+0.21,+0.44] p=4e-08 | As-PO4|Fe +0.223 [+0.10,+0.34] | As-Fe rho=+0.386 [+0.27,+0.48] | As-Fe|PO4 +0.310
+  Holocene >150 m          n= 168 wells=  87 | As-PO4 rho=+0.167 [+0.02,+0.31] p=0.03 | As-PO4|Fe +0.144 [-0.01,+0.28] | As-Fe rho=+0.154 [-0.01,+0.30] | As-Fe|PO4 +0.128
+  Pleistocene <30 m        n=  68 wells=  37 | As-PO4 rho=-0.096 [-0.37,+0.18] p=0.4 | As-PO4|Fe -0.184 [-0.40,+0.04] | As-Fe rho=+0.233 [-0.01,+0.50] | As-Fe|PO4 +0.312
+  Pleistocene 30-80 m      n=  59 wells=  31 | As-PO4 rho=+0.540 [+0.30,+0.71] p=1e-05 | As-PO4|Fe +0.479 [+0.21,+0.68] | As-Fe rho=+0.274 [+0.00,+0.50] | As-Fe|PO4 +0.162
+  Pleistocene 80-150 m: n=18 too small
+  Pleistocene >150 m       n=  37 wells=  19 | As-PO4 rho=-0.045 [-0.39,+0.29] p=0.8 | As-PO4|Fe -0.097 [-0.49,+0.23] | As-Fe rho=+0.064 [-0.25,+0.37] | As-Fe|PO4 +0.049
+[D] alternative Bengal Basin depth schemes
+  -- DPHE shallow/deep at 150 m
+  DPHE shallow/deep at 150 m: <150 n=1431 wells= 742 | As-PO4 rho=+0.388 [+0.34,+0.43] p=1e-52 | As-PO4|Fe +0.298 [+0.25,+0.35] | As-Fe rho=+0.303 [+0.25,+0.35] | As-Fe|PO4 +0.175
+  DPHE shallow/deep at 150 m: >150 n= 374 wells= 195 | As-PO4 rho=+0.108 [+0.01,+0.21] p=0.04 | As-PO4|Fe +0.069 [-0.04,+0.18] | As-Fe rho=+0.151 [+0.05,+0.25] | As-Fe|PO4 +0.129
+  -- three-tier 50/150 m
+  three-tier 50/150 m: <50 n= 767 wells= 399 | As-PO4 rho=+0.438 [+0.37,+0.50] p=2e-37 | As-PO4|Fe +0.336 [+0.26,+0.40] | As-Fe rho=+0.328 [+0.26,+0.39] | As-Fe|PO4 +0.163
+  three-tier 50/150 m: 50-150 n= 664 wells= 345 | As-PO4 rho=+0.330 [+0.25,+0.40] p=2e-18 | As-PO4|Fe +0.259 [+0.18,+0.34] | As-Fe rho=+0.271 [+0.20,+0.34] | As-Fe|PO4 +0.179
+  three-tier 50/150 m: >150 n= 374 wells= 195 | As-PO4 rho=+0.108 [+0.01,+0.21] p=0.04 | As-PO4|Fe +0.069 [-0.04,+0.18] | As-Fe rho=+0.151 [+0.05,+0.25] | As-Fe|PO4 +0.129
+  -- quartiles
+     quartile edges m: [ 30.  72. 116.]
+  quartiles: Q1            n= 452 wells= 264 | As-PO4 rho=+0.502 [+0.42,+0.57] p=3e-30 | As-PO4|Fe +0.411 [+0.32,+0.49] | As-Fe rho=+0.332 [+0.24,+0.41] | As-Fe|PO4 +0.140
+  quartiles: Q2            n= 451 wells= 255 | As-PO4 rho=+0.372 [+0.27,+0.46] p=3e-16 | As-PO4|Fe +0.280 [+0.18,+0.38] | As-Fe rho=+0.287 [+0.21,+0.37] | As-Fe|PO4 +0.161
+  quartiles: Q3            n= 451 wells= 238 | As-PO4 rho=+0.315 [+0.22,+0.40] p=8e-12 | As-PO4|Fe +0.226 [+0.13,+0.32] | As-Fe rho=+0.313 [+0.23,+0.39] | As-Fe|PO4 +0.222
+  quartiles: Q4            n= 451 wells= 234 | As-PO4 rho=+0.114 [+0.03,+0.21] p=0.02 | As-PO4|Fe +0.078 [-0.01,+0.18] | As-Fe rho=+0.146 [+0.05,+0.24] | As-Fe|PO4 +0.127
+[E] physiographic zone: As-PO4|Fe and As-Fe|PO4, shallow (<80 m) vs deep (>=80 m)
+  Acrai Flood Plain            insufficient (n<80m=23, n>=80m=8)
+  Barind Tract                 insufficient (n<80m=68, n>=80m=6)
+  Brahmaputra-Jamuna Flood Plain <80m n= 71 PO4 +0.51 Fe +0.07 (PO4) | >=80m n= 36 PO4 +0.43 Fe -0.06 (PO4)  shift=no
+  Chittagong Hill Tracts       <80m n= 53 PO4 +0.16 Fe -0.24 (PO4) | >=80m n= 51 PO4 -0.23 Fe +0.16 (Fe)  shift=yes
+  Coastal Plain                insufficient (n<80m=8, n>=80m=27)
+  Delta (Tidal)                <80m n=164 PO4 +0.14 Fe +0.13 (PO4) | >=80m n=336 PO4 +0.11 Fe +0.20 (Fe)  shift=yes
+  Ganges (Active)              <80m n=118 PO4 +0.54 Fe +0.19 (PO4) | >=80m n=113 PO4 +0.34 Fe +0.23 (PO4)  shift=no
+  Ganges (Inactive)            <80m n= 32 PO4 +0.66 Fe -0.05 (PO4) | >=80m n= 53 PO4 +0.50 Fe +0.33 (PO4)  shift=no
+  Ganges Flood Plain           insufficient (n<80m=108, n>=80m=8)
+  Madhupur Tract               <80m n= 25 PO4 -0.16 Fe +0.09 (Fe) | >=80m n= 21 PO4 -0.60 Fe +0.50 (Fe)  shift=no
+  Meghalaya Foothills          insufficient (n<80m=6, n>=80m=0)
+  Meghna Flood Plain           <80m n= 26 PO4 -0.05 Fe +0.32 (Fe) | >=80m n= 40 PO4 +0.04 Fe +0.17 (Fe)  shift=no
+  Old Brahmaputra Flood Plain  <80m n= 43 PO4 +0.25 Fe +0.42 (Fe) | >=80m n= 40 PO4 +0.21 Fe +0.25 (Fe)  shift=no
+  Sylhet Depression            insufficient (n<80m=32, n>=80m=16)
+  Sylhet Foothills             insufficient (n<80m=9, n>=80m=4)
+  Tippera Surface              <80m n= 40 PO4 -0.01 Fe +0.39 (Fe) | >=80m n= 40 PO4 -0.47 Fe +0.03 (Fe)  shift=no
+  Tista Fan (Active)           <80m n= 46 PO4 +0.45 Fe -0.18 (PO4) | >=80m n= 22 PO4 +0.08 Fe +0.23 (Fe)  shift=yes
+  Tista Fan (Inactive)         insufficient (n<80m=34, n>=80m=8)
+
+[F] BWDB rolling crossover (80 m window, 5 m step): 154.3 m
+    BGS rolling crossover (same method): 271.3 m
+    BGS rolling windows (mid, PO4|Fe, Fe|PO4, n):
+  mid   po4    fe    n
+ 40.0 0.576 0.236 2997
+ 60.0 0.561 0.247 2426
+ 80.0 0.519 0.249 1101
+100.0 0.558 0.177  461
+120.0 0.535 0.051  220
+140.0 0.524 0.106  143
+160.0 0.543 0.281   93
+180.0 0.537 0.337   72
+200.0 0.447 0.180   51
+220.0 0.276 0.056   77
+240.0 0.277 0.119  113
+260.0 0.252 0.195  162
+280.0 0.170 0.222  227
+300.0 0.177 0.184  222
+320.0 0.119 0.164  180
+    BWDB rolling windows:
+  mid    po4    fe    n
+ 40.0  0.346 0.144  948
+ 60.0  0.322 0.174 1160
+ 80.0  0.292 0.165  701
+100.0  0.224 0.188  594
+120.0  0.201 0.205  515
+140.0  0.147 0.128  268
+160.0  0.053 0.057  190
+180.0  0.001 0.066  177
+200.0  0.044 0.021  164
+220.0 -0.032 0.124  160
+240.0  0.028 0.236  132
+260.0  0.047 0.185  159
+280.0  0.063 0.198  161
+300.0  0.175 0.159  137
+320.0  0.179 0.084  109
+
+[G] depth coverage
+             BWDB n  BWDB %  BGS n  BGS %
+Depth                                    
+[0, 30)         403    22.3   1467   41.5
+[30, 50)        364    20.2    955   27.0
+[50, 80)        181    10.0    575   16.3
+[80, 100)       285    15.8     84    2.4
+[100, 150)      198    11.0    126    3.6
+[150, 200)      130     7.2     32    0.9
+[200, 300)      200    11.1    181    5.1
+[300, 1000)      44     2.4    114    3.2
+    median depth BWDB 72 m, BGS 35 m; BWDB wells >150 m 370, BGS 326
+    BGS crossover bootstrap: found in 229/300, median 259 m, 95% CI [159. 303.]
+[H] BWDB reweighted to BGS depth mix: crossover found 286/300, median 145 m, 95% CI [ 99. 242.]
+[I] harmonised class partials As-PO4|Fe / As-Fe|PO4 in both datasets
+  <30     BWDB n= 403 PO4 +0.380 Fe +0.162 | BGS n=1467 PO4 +0.617 Fe +0.189
+  30-80   BWDB n= 545 PO4 +0.319 Fe +0.137 | BGS n=1530 PO4 +0.529 Fe +0.272
+  80-150  BWDB n= 483 PO4 +0.204 Fe +0.216 | BGS n= 210 PO4 +0.526 Fe +0.035
+  >150    BWDB n= 374 PO4 +0.069 Fe +0.129 | BGS n= 327 PO4 +0.232 Fe +0.252

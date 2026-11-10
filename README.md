@@ -35,15 +35,20 @@ embeddings/
   prithvi_pca_model.pkl             # Fitted PCA model (768 -> 64 dim)
 figures/
   make_figures.py      # Scripts to reproduce all manuscript figures
+revision_r2/           # Analyses for the revised manuscript (see revision_r2/README.md)
 ```
+
+**Revised manuscript.** The analyses added or recomputed in the major revision
+(GSD-D-26-01044) are in [`revision_r2/`](revision_r2/README.md). They identify wells by
+BWDB station identifier and supersede the corresponding parts of `src/`. The
+phosphate-to-iron crossover depth reported by `src/h2_depth/mechanism_shift.py`
+has been withdrawn.
 
 ## Data Availability
 
 The geochemical dataset (`bangladesh_groundwater_arsenic_1807samples.csv`, 1,807 samples x 45 features) is archived on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-
-*DOI will be updated upon acceptance.*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19148957.svg)](https://doi.org/10.5281/zenodo.19148957)
 
 ## Installation
 
@@ -102,12 +107,12 @@ Three-encoder multi-modal fusion model (~94,000 parameters):
 
 ```bibtex
 @article{Hasan2026_arsenic,
-  title   = {Phosphate Dominance, Geochemical Bistability, and Seasonal Dynamics
-             in Bangladesh Groundwater Arsenic: National-Scale Mechanism
-             Partitioning and Rapid Risk Screening},
+  title   = {Depositional Environment and Depth-Stratified Geochemical Association
+             of Arsenic and Phosphate in Bangladesh Groundwater},
   author  = {Hasan, Md Rakib and Rupa, Mst Anika Khatun and Arabi, Fazla Zawadul
              and Zubyer, Shoumik and Zahid, Anwar},
-  journal = {Water Research},
+  journal = {Groundwater for Sustainable Development},
+  note    = {Under review},
   year    = {2026}
 }
 ```

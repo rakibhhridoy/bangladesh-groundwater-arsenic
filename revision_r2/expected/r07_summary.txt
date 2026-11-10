@@ -1,0 +1,17 @@
+n=1696
+covariates                                 window   first  sustained(3)
+Fe/PO4 only (as BGS comparison & Fig. 5)       60     107           107
+Fe/PO4 only (as BGS comparison & Fig. 5)       80     117           151
+Fe/PO4 only (as BGS comparison & Fig. 5)      120     130           130
++HCO3                                          60      74            74
++HCO3                                          80      63            89
++HCO3                                         120      80            80
++HCO3,pH,DO (manuscript 68 m)                  60      85            85
++HCO3,pH,DO (manuscript 68 m)                  80      68            95
++HCO3,pH,DO (manuscript 68 m)                 120      89           112
+
+Fe-minus-PO4 partial difference per depth class (manuscript covariates), cluster bootstrap by well B=1000
+  <30     n=364 Fe-PO4 = -0.137  95% CI [-0.304, +0.047]  P(Fe>PO4)=0.07
+  30-80   n=512 Fe-PO4 = -0.094  95% CI [-0.234, +0.038]  P(Fe>PO4)=0.10
+  80-150  n=460 Fe-PO4 = +0.094  95% CI [-0.057, +0.232]  P(Fe>PO4)=0.89
+  >150    n=360 Fe-PO4 = +0.101  95% CI [-0.072, +0.272]  P(Fe>PO4)=0.89
