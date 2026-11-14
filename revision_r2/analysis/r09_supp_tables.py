@@ -56,9 +56,10 @@ rows=[r"Deposit type (17 units), $\varepsilon^2$ & 0.135",
       r"Joint model, unique share: deposit type / depth & 0.149 / 0.018",
       r"Deposit type on depth-detrended ranks, $\varepsilon^2$ & 0.141",
       r"Well-level medians (859 wells): deposit / depth class $\varepsilon^2$ & 0.199 / 0.010",
-      r"Depth-matched pairs ($\pm$5 m, $n = 178$): Holocene / Pleistocene \% $>$WHO & 43.8 / 3.9",
+      r"178 depth-matched pairs ($\pm$5 m), Holocene / Pleistocene \% $>$WHO & 43.8 / 3.9",
       r"Mantel--Haenszel odds ratio across depth classes [95\% CI] & 18.9 [9.4, 38.3]",
-      r"Excluding 26 identifiers mapped to two deposit types: $\varepsilon^2$; Holocene / Pleistocene \% $>$WHO & 0.137; 46.3 / 3.9"]
+      r"Excluding 26 identifiers in two deposit types, $\varepsilon^2$ & 0.137",
+      r"Same exclusion, Holocene / Pleistocene \% $>$WHO & 46.3 / 3.9"]
 tab(r"Mapped deposit type compared with depth on equal terms (1{,}662 samples, 859 wells). Cross-validated $R^2$ is for arsenic ranks with folds that hold out whole wells (10 folds).",
     "tab:s_fair","lr",r"\textbf{Comparison} & \textbf{Value}",rows)
 # ---------- S8 alternative depth schemes ----------

@@ -1,0 +1,1438 @@
+image,top_m,bottom_m,lithology
+img-040-000,0.0,5.04,silt/silty clay
+img-040-000,5.04,19.05,fine sand
+img-040-000,19.05,24.09,very fine sand
+img-040-000,24.09,55.46,fine sand
+img-040-000,55.46,70.59,silt/silty clay
+img-040-000,70.59,81.79,very fine sand
+img-040-000,81.79,95.24,fine sand
+img-040-000,95.24,105.88,silt/silty clay
+img-040-000,105.88,122.13,fine sand
+img-040-000,122.13,139.5,silt/silty clay
+img-040-000,139.5,159.1,fine sand
+img-040-000,159.1,303.64,silt/silty clay
+img-040-000,303.64,305.32,clay
+img-040-001,0.0,24.88,fine sand
+img-040-001,24.88,43.32,medium sand
+img-040-001,43.32,77.88,very fine sand
+img-040-001,77.88,85.71,silt/silty clay
+img-040-001,85.71,91.71,fine sand
+img-040-001,91.71,94.47,very fine sand
+img-040-001,94.47,100.92,silt/silty clay
+img-040-001,100.92,116.59,fine sand
+img-040-001,116.59,121.66,silt/silty clay
+img-040-001,121.66,158.99,fine sand
+img-040-001,158.99,164.06,silt/silty clay
+img-040-001,164.06,213.36,fine sand
+img-040-001,213.36,219.35,very fine sand
+img-040-001,219.35,287.1,silt/silty clay
+img-040-002,0.0,9.9,silt/silty clay
+img-040-002,9.9,17.71,very fine sand
+img-040-002,17.71,21.88,silt/silty clay
+img-040-002,21.88,25.52,fine sand
+img-040-002,25.52,30.21,silt/silty clay
+img-040-002,30.21,37.5,fine sand
+img-040-002,37.5,42.71,silt/silty clay
+img-040-002,42.71,70.31,very fine sand
+img-040-002,70.31,79.69,fine sand
+img-040-002,79.69,88.54,very fine sand
+img-040-002,88.54,107.29,fine sand
+img-040-002,107.29,110.42,medium sand
+img-040-002,110.42,116.15,coarse sand
+img-040-002,116.15,119.27,fine sand
+img-040-002,119.27,122.92,coarse sand
+img-040-002,122.92,136.98,fine sand
+img-040-002,136.98,139.06,coarse sand
+img-040-002,139.06,146.88,medium sand
+img-040-002,146.88,177.6,fine sand
+img-040-002,177.6,179.69,silt/silty clay
+img-040-002,179.69,183.33,fine sand
+img-040-002,183.33,189.06,silt/silty clay
+img-040-002,189.06,204.17,very fine sand
+img-040-002,204.17,234.9,silt/silty clay
+img-040-002,234.9,244.27,very fine sand
+img-040-002,244.27,246.88,silt/silty clay
+img-040-002,246.88,250.0,very fine sand
+img-040-002,250.0,252.6,coarse sand
+img-040-002,252.6,305.21,fine sand
+img-041-003,0.0,1.9,clay
+img-041-003,1.9,3.8,silt/silty clay
+img-041-003,3.8,6.64,clay
+img-041-003,6.64,24.68,fine sand
+img-041-003,24.68,96.82,very fine sand
+img-041-003,96.82,133.84,fine sand
+img-041-003,133.84,140.01,clay
+img-041-003,140.01,143.33,silt/silty clay
+img-041-003,143.33,149.03,clay
+img-041-003,149.03,151.4,silt/silty clay
+img-041-003,151.4,158.99,clay
+img-041-003,158.99,162.32,silt/silty clay
+img-041-003,162.32,164.21,clay
+img-041-003,164.21,170.38,very fine sand
+img-041-003,170.38,172.28,clay
+img-041-003,172.28,176.08,silt/silty clay
+img-041-003,176.08,182.72,very fine sand
+img-041-003,182.72,188.89,silt/silty clay
+img-041-003,188.89,209.78,very fine sand
+img-041-003,209.78,231.13,fine sand
+img-041-003,231.13,245.37,very fine sand
+img-041-003,245.37,258.19,fine sand
+img-041-003,258.19,263.41,very fine sand
+img-041-003,263.41,292.36,fine sand
+img-041-004,0.0,12.23,silt/silty clay
+img-041-004,12.23,64.36,very fine sand
+img-041-004,64.36,107.45,fine sand
+img-041-004,107.45,112.77,very fine sand
+img-041-004,112.77,125.53,silt/silty clay
+img-041-004,125.53,134.57,very fine sand
+img-041-004,134.57,171.28,fine sand
+img-041-004,171.28,176.6,very fine sand
+img-041-004,176.6,195.74,fine sand
+img-041-004,195.74,204.26,silt/silty clay
+img-041-004,204.26,305.32,fine sand
+img-041-005,0.0,1.87,clay
+img-041-005,1.87,2.53,silt/silty clay
+img-041-005,2.53,4.67,clay
+img-041-005,4.67,5.07,silt/silty clay
+img-041-005,5.07,6.0,clay
+img-041-005,6.0,6.67,silt/silty clay
+img-041-005,6.67,7.6,clay
+img-041-005,7.6,8.53,silt/silty clay
+img-041-005,8.53,9.2,clay
+img-041-005,9.2,12.27,fine sand
+img-041-005,12.27,18.0,medium sand
+img-041-005,18.0,30.53,coarse sand
+img-041-005,30.53,39.6,medium sand
+img-041-005,39.6,40.67,clay
+img-041-005,40.67,41.6,silt/silty clay
+img-041-005,41.6,43.2,clay
+img-041-005,43.2,43.6,silt/silty clay
+img-041-005,43.6,44.53,clay
+img-041-005,44.53,45.2,silt/silty clay
+img-041-005,45.2,46.13,clay
+img-041-005,46.13,47.73,silt/silty clay
+img-041-005,47.73,48.67,clay
+img-041-005,48.67,49.33,silt/silty clay
+img-041-005,49.33,50.27,clay
+img-041-005,50.27,51.07,silt/silty clay
+img-041-005,51.07,51.6,clay
+img-041-005,51.6,70.0,silt/silty clay
+img-041-006,0.0,6.03,silt/silty clay
+img-041-006,6.03,66.67,very fine sand
+img-041-006,66.67,73.17,coarse sand
+img-041-007,0.0,21.9,fine sand
+img-041-007,21.9,30.76,very fine sand
+img-041-007,30.76,34.41,fine sand
+img-041-007,34.41,42.23,very fine sand
+img-041-007,42.23,52.66,fine sand
+img-041-007,52.66,57.87,very fine sand
+img-041-007,57.87,60.48,coarse sand
+img-041-007,60.48,67.26,silt/silty clay
+img-041-007,67.26,74.04,fine sand
+img-041-007,74.04,88.63,silt/silty clay
+img-041-007,88.63,104.28,very fine sand
+img-041-007,104.28,119.92,fine sand
+img-041-007,119.92,122.0,silt/silty clay
+img-041-007,122.0,159.54,very fine sand
+img-041-007,159.54,164.76,silt/silty clay
+img-041-007,164.76,183.52,very fine sand
+img-041-007,183.52,185.61,silt/silty clay
+img-041-007,185.61,194.99,clay
+img-041-007,194.99,228.36,very fine sand
+img-041-007,228.36,230.97,silt/silty clay
+img-041-007,230.97,267.99,very fine sand
+img-041-007,267.99,271.12,clay
+img-041-007,271.12,305.01,very fine sand
+img-042-008,0.0,25.99,medium sand
+img-042-008,25.99,36.39,very fine sand
+img-042-008,36.39,39.7,fine sand
+img-042-008,39.7,41.59,medium sand
+img-042-008,41.59,45.84,coarse sand
+img-042-008,45.84,60.96,fine sand
+img-042-008,60.96,66.16,silt/silty clay
+img-042-008,66.16,76.09,fine sand
+img-042-008,76.09,100.66,coarse sand
+img-042-008,100.66,106.81,fine sand
+img-042-008,106.81,130.43,medium sand
+img-042-008,130.43,140.83,fine sand
+img-042-008,140.83,158.32,medium sand
+img-042-008,158.32,167.77,fine sand
+img-042-008,167.77,206.52,medium sand
+img-042-008,206.52,223.06,coarse sand
+img-042-008,223.06,236.77,medium sand
+img-042-008,236.77,250.0,coarse sand
+img-042-008,250.0,261.81,fine sand
+img-042-008,261.81,304.82,medium sand
+img-042-009,0.0,2.9,clay
+img-042-009,2.9,9.28,silt/silty clay
+img-042-009,9.28,13.91,clay
+img-042-009,13.91,18.55,silt/silty clay
+img-042-009,18.55,22.03,very fine sand
+img-042-009,22.03,24.93,medium sand
+img-042-009,24.93,31.3,fine sand
+img-042-009,31.3,34.2,very fine sand
+img-042-009,34.2,37.1,medium sand
+img-042-009,37.1,40.58,fine sand
+img-042-009,40.58,44.64,medium sand
+img-042-009,44.64,53.33,fine sand
+img-042-009,53.33,55.07,very fine sand
+img-042-009,55.07,58.55,silt/silty clay
+img-042-009,58.55,64.35,very fine sand
+img-042-009,64.35,78.84,fine sand
+img-042-009,78.84,80.58,silt/silty clay
+img-042-009,80.58,86.38,clay
+img-042-009,86.38,92.17,very fine sand
+img-042-009,92.17,104.35,fine sand
+img-042-009,104.35,108.41,coarse sand
+img-042-009,108.41,117.1,silt/silty clay
+img-042-009,117.1,122.32,clay
+img-042-009,122.32,127.54,very fine sand
+img-042-009,127.54,140.87,fine sand
+img-042-009,140.87,143.19,very fine sand
+img-042-009,143.19,165.22,fine sand
+img-042-009,165.22,182.03,very fine sand
+img-042-009,182.03,186.09,fine sand
+img-042-009,186.09,190.14,very fine sand
+img-042-009,190.14,194.78,clay
+img-042-009,194.78,198.84,silt/silty clay
+img-042-009,198.84,207.54,very fine sand
+img-042-009,207.54,215.07,fine sand
+img-042-009,215.07,219.71,very fine sand
+img-042-009,219.71,223.19,fine sand
+img-042-009,223.19,226.09,very fine sand
+img-042-009,226.09,241.74,fine sand
+img-042-009,241.74,249.86,very fine sand
+img-042-009,249.86,252.75,medium sand
+img-042-009,252.75,262.61,fine sand
+img-042-009,262.61,270.72,very fine sand
+img-042-009,270.72,274.78,fine sand
+img-042-009,274.78,281.16,very fine sand
+img-042-009,281.16,311.88,silt/silty clay
+img-042-010,0.0,8.31,clay
+img-042-010,8.31,20.26,silt/silty clay
+img-042-010,20.26,21.82,clay
+img-042-010,21.82,28.05,very fine sand
+img-042-010,28.05,31.17,fine sand
+img-042-010,31.17,33.77,very fine sand
+img-042-010,33.77,37.4,fine sand
+img-042-010,37.4,55.58,very fine sand
+img-042-010,55.58,58.18,fine sand
+img-042-010,58.18,61.3,very fine sand
+img-042-010,61.3,67.53,silt/silty clay
+img-042-010,67.53,70.13,very fine sand
+img-042-010,70.13,74.81,fine sand
+img-042-010,74.81,78.96,silt/silty clay
+img-042-010,78.96,85.71,fine sand
+img-042-010,85.71,91.95,clay
+img-042-010,91.95,107.01,very fine sand
+img-042-010,107.01,117.4,fine sand
+img-042-010,117.4,137.66,very fine sand
+img-042-010,137.66,140.26,silt/silty clay
+img-042-010,140.26,147.01,very fine sand
+img-042-010,147.01,152.73,clay
+img-042-010,152.73,164.68,very fine sand
+img-042-010,164.68,171.43,fine sand
+img-042-010,171.43,176.62,very fine sand
+img-042-010,176.62,189.09,fine sand
+img-042-010,189.09,192.21,very fine sand
+img-042-010,192.21,195.84,fine sand
+img-042-010,195.84,216.62,very fine sand
+img-042-010,216.62,222.86,fine sand
+img-042-010,222.86,243.64,very fine sand
+img-042-010,243.64,253.51,fine sand
+img-042-010,253.51,305.45,clay
+img-043-011,0.0,9.4,clay
+img-043-011,9.4,48.61,very fine sand
+img-043-011,48.61,51.66,fine sand
+img-043-011,51.66,54.44,very fine sand
+img-043-011,54.44,60.93,coarse sand
+img-043-011,60.93,76.03,medium sand
+img-043-012,0.0,0.56,clay
+img-043-012,0.56,6.18,silt/silty clay
+img-043-012,6.18,23.95,very fine sand
+img-043-012,23.95,37.05,fine sand
+img-043-012,37.05,48.84,very fine sand
+img-043-012,48.84,55.02,silt/silty clay
+img-043-012,55.02,60.63,very fine sand
+img-043-012,60.63,66.81,medium sand
+img-043-012,66.81,76.16,very fine sand
+img-043-012,76.16,78.97,medium sand
+img-043-012,78.97,84.77,very fine sand
+img-043-012,84.77,91.13,fine sand
+img-043-012,91.13,97.87,coarse sand
+img-043-012,97.87,100.49,very fine sand
+img-043-013,0.0,12.42,very fine sand
+img-043-013,12.42,15.37,medium sand
+img-043-013,15.37,18.53,very fine sand
+img-043-013,18.53,31.16,fine sand
+img-043-013,31.16,32.84,very fine sand
+img-043-013,32.84,37.05,fine sand
+img-043-013,37.05,39.58,very fine sand
+img-043-013,39.58,40.21,coarse sand
+img-043-013,40.21,60.84,medium sand
+img-043-013,60.84,73.89,coarse sand
+img-043-013,73.89,75.58,very fine sand
+img-043-013,75.58,91.16,fine sand
+img-043-013,91.16,94.53,coarse sand
+img-043-013,94.53,100.63,very fine sand
+img-043-013,100.63,109.68,medium sand
+img-043-013,109.68,112.42,very fine sand
+img-043-013,112.42,113.26,coarse sand
+img-043-013,113.26,122.11,medium sand
+img-043-014,0.0,6.17,coarse sand
+img-043-014,6.17,24.45,fine sand
+img-043-014,24.45,30.98,coarse sand
+img-043-014,30.98,42.72,very fine sand
+img-043-014,42.72,46.11,coarse sand
+img-043-015,0.0,24.66,very fine sand
+img-043-015,24.66,31.05,fine sand
+img-043-015,31.05,54.79,very fine sand
+img-043-015,54.79,57.99,medium sand
+img-043-015,57.99,76.26,very fine sand
+img-043-015,76.26,77.63,coarse sand
+img-043-015,77.63,82.65,medium sand
+img-043-015,82.65,85.84,fine sand
+img-043-015,85.84,112.79,very fine sand
+img-043-015,112.79,116.44,medium sand
+img-043-015,116.44,118.72,very fine sand
+img-043-015,118.72,120.09,coarse sand
+img-043-015,120.09,125.57,medium sand
+img-043-015,125.57,129.22,very fine sand
+img-043-015,129.22,136.07,medium sand
+img-043-015,136.07,138.36,coarse sand
+img-043-015,138.36,140.18,very fine sand
+img-043-015,140.18,149.77,fine sand
+img-043-015,149.77,152.51,very fine sand
+img-043-015,152.51,159.82,fine sand
+img-043-015,159.82,164.84,very fine sand
+img-043-015,164.84,173.97,fine sand
+img-043-015,173.97,183.11,very fine sand
+img-043-015,183.11,220.09,medium sand
+img-043-015,220.09,226.03,very fine sand
+img-043-015,226.03,244.29,fine sand
+img-043-015,244.29,260.27,very fine sand
+img-043-016,0.0,2.64,very fine sand
+img-043-016,2.64,20.05,fine sand
+img-043-016,20.05,24.8,very fine sand
+img-043-016,24.8,27.44,medium sand
+img-043-016,27.44,35.36,fine sand
+img-043-016,35.36,42.74,very fine sand
+img-043-016,42.74,44.33,coarse sand
+img-043-016,44.33,47.49,medium sand
+img-043-016,47.49,49.08,coarse sand
+img-043-016,49.08,51.72,very fine sand
+img-043-016,51.72,53.83,coarse sand
+img-043-016,53.83,60.16,medium sand
+img-043-016,60.16,62.27,coarse sand
+img-043-016,62.27,85.49,very fine sand
+img-043-016,85.49,89.18,fine sand
+img-043-016,89.18,100.26,very fine sand
+img-043-016,100.26,109.76,fine sand
+img-043-016,109.76,111.35,coarse sand
+img-043-016,111.35,113.98,medium sand
+img-043-016,113.98,116.09,coarse sand
+img-043-016,116.09,127.7,fine sand
+img-043-016,127.7,134.56,coarse sand
+img-043-016,134.56,140.37,medium sand
+img-043-016,140.37,150.92,very fine sand
+img-043-016,150.92,165.17,fine sand
+img-043-016,165.17,182.59,medium sand
+img-043-016,182.59,202.11,fine sand
+img-043-016,202.11,205.8,medium sand
+img-043-016,205.8,209.5,coarse sand
+img-043-016,209.5,218.47,silt/silty clay
+img-043-016,218.47,225.86,fine sand
+img-043-016,225.86,229.55,medium sand
+img-043-016,229.55,231.66,coarse sand
+img-043-016,231.66,244.33,very fine sand
+img-043-016,244.33,255.41,medium sand
+img-043-016,255.41,258.05,silt/silty clay
+img-043-016,258.05,291.82,fine sand
+img-043-016,291.82,298.68,very fine sand
+img-043-016,298.68,304.49,silt/silty clay
+img-044-017,0.0,10.08,clay
+img-044-017,10.08,21.22,silt/silty clay
+img-044-017,21.22,33.42,fine sand
+img-044-017,33.42,36.6,very fine sand
+img-044-017,36.6,38.2,coarse sand
+img-044-017,38.2,46.15,medium sand
+img-044-017,46.15,51.46,very fine sand
+img-044-017,51.46,58.36,medium sand
+img-044-017,58.36,70.03,silt/silty clay
+img-044-017,70.03,77.45,very fine sand
+img-044-017,77.45,82.23,medium sand
+img-044-017,82.23,91.25,very fine sand
+img-044-017,91.25,106.1,fine sand
+img-044-017,106.1,107.69,coarse sand
+img-044-017,107.69,149.6,medium sand
+img-044-017,149.6,170.82,very fine sand
+img-044-017,170.82,176.13,silt/silty clay
+img-044-017,176.13,185.68,very fine sand
+img-044-017,185.68,198.41,silt/silty clay
+img-044-017,198.41,201.06,very fine sand
+img-044-017,201.06,210.61,medium sand
+img-044-017,210.61,214.85,very fine sand
+img-044-017,214.85,216.45,medium sand
+img-044-017,216.45,238.73,fine sand
+img-044-017,238.73,244.03,medium sand
+img-044-017,244.03,249.87,fine sand
+img-044-017,249.87,274.27,medium sand
+img-044-017,274.27,287.0,fine sand
+img-044-017,287.0,298.67,silt/silty clay
+img-044-017,298.67,305.57,very fine sand
+img-044-018,0.0,11.63,very fine sand
+img-044-018,11.63,24.82,fine sand
+img-044-018,24.82,45.56,medium sand
+img-044-018,45.56,52.47,fine sand
+img-044-018,52.47,54.67,medium sand
+img-044-018,54.67,72.58,very fine sand
+img-044-018,72.58,85.78,coarse sand
+img-044-018,85.78,121.6,very fine sand
+img-044-018,121.6,134.17,coarse sand
+img-044-018,134.17,156.17,fine sand
+img-044-018,156.17,164.65,very fine sand
+img-044-018,164.65,167.48,medium sand
+img-044-018,167.48,171.56,fine sand
+img-044-018,171.56,172.51,very fine sand
+img-044-018,172.51,183.19,fine sand
+img-044-018,183.19,194.82,very fine sand
+img-044-018,194.82,197.96,fine sand
+img-044-018,197.96,204.24,coarse sand
+img-044-019,0.0,3.31,clay
+img-044-019,3.31,7.18,silt/silty clay
+img-044-019,7.18,18.23,very fine sand
+img-044-019,18.23,37.02,fine sand
+img-044-019,37.02,40.33,silt/silty clay
+img-044-019,40.33,43.09,very fine sand
+img-044-019,43.09,55.8,fine sand
+img-044-019,55.8,61.33,very fine sand
+img-044-019,61.33,68.51,fine sand
+img-044-019,68.51,70.72,clay
+img-044-019,70.72,73.48,very fine sand
+img-044-019,73.48,109.39,fine sand
+img-044-019,109.39,111.05,coarse sand
+img-044-019,111.05,118.78,medium sand
+img-044-019,118.78,167.96,fine sand
+img-044-019,167.96,194.48,silt/silty clay
+img-044-019,194.48,207.18,very fine sand
+img-044-019,207.18,210.5,fine sand
+img-044-019,210.5,219.34,very fine sand
+img-044-019,219.34,222.65,fine sand
+img-044-019,222.65,231.49,medium sand
+img-044-019,231.49,292.82,fine sand
+img-044-020,0.0,1.48,clay
+img-044-020,1.48,5.93,silt/silty clay
+img-044-020,5.93,21.24,very fine sand
+img-044-020,21.24,26.67,clay
+img-044-020,26.67,31.12,silt/silty clay
+img-044-020,31.12,34.58,clay
+img-044-020,34.58,60.76,silt/silty clay
+img-044-020,60.76,103.24,very fine sand
+img-044-020,103.24,114.6,fine sand
+img-044-020,114.6,121.51,very fine sand
+img-044-020,121.51,131.39,fine sand
+img-044-020,131.39,152.14,very fine sand
+img-044-020,152.14,161.52,medium sand
+img-044-020,161.52,189.18,fine sand
+img-044-020,189.18,248.46,silt/silty clay
+img-044-020,248.46,249.94,clay
+img-044-020,249.94,261.3,very fine sand
+img-044-020,261.3,268.71,silt/silty clay
+img-044-020,268.71,277.11,very fine sand
+img-044-020,277.11,281.55,fine sand
+img-044-020,281.55,297.36,very fine sand
+img-044-020,297.36,305.26,fine sand
+img-044-021,0.0,12.3,silt/silty clay
+img-044-021,12.3,18.69,very fine sand
+img-044-021,18.69,30.49,fine sand
+img-044-021,30.49,42.3,very fine sand
+img-044-021,42.3,60.49,silt/silty clay
+img-044-021,60.49,82.62,fine sand
+img-044-021,82.62,90.98,very fine sand
+img-044-021,90.98,116.56,fine sand
+img-044-021,116.56,121.97,very fine sand
+img-044-021,121.97,164.75,fine sand
+img-044-021,164.75,170.16,very fine sand
+img-044-021,170.16,183.93,fine sand
+img-044-021,183.93,270.98,silt/silty clay
+img-044-021,270.98,305.41,fine sand
+img-045-022,0.0,9.17,silt/silty clay
+img-045-022,9.17,57.99,very fine sand
+img-045-022,57.99,70.41,fine sand
+img-045-022,70.41,72.49,medium sand
+img-045-022,72.49,79.59,fine sand
+img-045-022,79.59,112.72,medium sand
+img-045-022,112.72,118.93,fine sand
+img-045-022,118.93,128.4,coarse sand
+img-045-022,128.4,155.62,fine sand
+img-045-022,155.62,167.16,medium sand
+img-045-022,167.16,177.22,coarse sand
+img-045-023,0.0,37.96,silt/silty clay
+img-045-023,37.96,52.69,very fine sand
+img-045-023,52.69,58.92,fine sand
+img-045-023,58.92,67.99,silt/silty clay
+img-045-023,67.99,123.51,fine sand
+img-045-023,123.51,138.81,silt/silty clay
+img-045-023,138.81,145.04,very fine sand
+img-045-023,145.04,172.24,fine sand
+img-045-023,172.24,178.47,very fine sand
+img-045-023,178.47,187.54,fine sand
+img-045-023,187.54,210.76,silt/silty clay
+img-045-023,210.76,252.12,fine sand
+img-045-023,252.12,307.65,silt/silty clay
+img-045-024,0.0,12.53,silt/silty clay
+img-045-024,12.53,37.58,very fine sand
+img-045-024,37.58,98.04,silt/silty clay
+img-045-024,98.04,110.02,very fine sand
+img-045-024,110.02,264.16,fine sand
+img-045-024,264.16,304.47,silt/silty clay
+img-045-025,0.0,24.4,silt/silty clay
+img-045-025,24.4,37.14,fine sand
+img-045-025,37.14,42.44,silt/silty clay
+img-045-025,42.44,46.15,fine sand
+img-045-025,46.15,70.56,very fine sand
+img-045-025,70.56,92.84,fine sand
+img-045-025,92.84,100.8,very fine sand
+img-045-025,100.8,119.89,fine sand
+img-045-025,119.89,127.85,very fine sand
+img-045-025,127.85,134.75,fine sand
+img-045-025,134.75,152.79,very fine sand
+img-045-025,152.79,159.68,fine sand
+img-045-025,159.68,170.82,very fine sand
+img-045-025,170.82,306.63,fine sand
+img-045-026,0.0,13.13,silt/silty clay
+img-045-026,13.13,19.15,very fine sand
+img-045-026,19.15,23.52,silt/silty clay
+img-045-026,23.52,37.75,fine sand
+img-045-026,37.75,43.76,clay
+img-045-026,43.76,49.78,very fine sand
+img-045-026,49.78,52.52,silt/silty clay
+img-045-026,52.52,55.8,fine sand
+img-045-026,55.8,64.55,very fine sand
+img-045-026,64.55,68.38,silt/silty clay
+img-045-026,68.38,70.02,clay
+img-045-026,70.02,80.42,silt/silty clay
+img-045-026,80.42,83.15,very fine sand
+img-045-026,83.15,86.43,silt/silty clay
+img-045-026,86.43,89.17,very fine sand
+img-045-026,89.17,101.2,silt/silty clay
+img-045-026,101.2,112.69,very fine sand
+img-045-026,112.69,147.16,fine sand
+img-045-026,147.16,156.46,very fine sand
+img-045-026,156.46,159.74,fine sand
+img-045-026,159.74,161.38,very fine sand
+img-045-026,161.38,169.04,fine sand
+img-045-026,169.04,171.77,very fine sand
+img-045-026,171.77,177.24,silt/silty clay
+img-045-026,177.24,186.54,very fine sand
+img-045-026,186.54,196.39,fine sand
+img-045-026,196.39,198.58,coarse sand
+img-045-026,198.58,201.31,fine sand
+img-045-026,201.31,203.5,coarse sand
+img-045-026,203.5,206.24,medium sand
+img-045-026,206.24,208.42,coarse sand
+img-045-026,208.42,214.99,fine sand
+img-045-026,214.99,216.63,very fine sand
+img-045-026,216.63,221.01,fine sand
+img-045-026,221.01,239.06,silt/silty clay
+img-045-026,239.06,256.56,very fine sand
+img-045-026,256.56,262.04,silt/silty clay
+img-045-026,262.04,271.33,fine sand
+img-045-026,271.33,273.52,coarse sand
+img-045-026,273.52,275.16,medium sand
+img-045-026,275.16,281.18,fine sand
+img-045-026,281.18,286.65,very fine sand
+img-045-026,286.65,305.8,fine sand
+img-045-027,0.0,12.11,silt/silty clay
+img-045-027,12.11,17.89,very fine sand
+img-045-027,17.89,55.26,fine sand
+img-045-027,55.26,70.0,silt/silty clay
+img-045-027,70.0,97.89,fine sand
+img-045-027,97.89,106.32,very fine sand
+img-045-027,106.32,113.68,fine sand
+img-045-027,113.68,131.05,silt/silty clay
+img-045-027,131.05,146.84,fine sand
+img-045-027,146.84,152.63,very fine sand
+img-045-027,152.63,176.84,fine sand
+img-045-027,176.84,185.26,medium sand
+img-045-027,185.26,186.84,coarse sand
+img-045-027,186.84,192.63,very fine sand
+img-045-027,192.63,219.47,silt/silty clay
+img-045-027,219.47,252.11,very fine sand
+img-045-027,252.11,278.42,fine sand
+img-045-027,278.42,281.05,very fine sand
+img-045-027,281.05,305.79,silt/silty clay
+img-045-028,0.0,0.44,clay
+img-045-028,0.44,1.03,silt/silty clay
+img-045-028,1.03,2.06,clay
+img-045-028,2.06,3.09,silt/silty clay
+img-045-028,3.09,4.85,clay
+img-045-028,4.85,5.88,silt/silty clay
+img-045-028,5.88,6.91,clay
+img-045-028,6.91,7.35,silt/silty clay
+img-045-028,7.35,9.12,clay
+img-045-028,9.12,33.68,fine sand
+img-045-028,33.68,76.32,medium sand
+img-045-029,0.0,3.11,very fine sand
+img-045-029,3.11,12.44,silt/silty clay
+img-045-029,12.44,24.19,very fine sand
+img-045-029,24.19,73.96,fine sand
+img-045-029,73.96,79.49,very fine sand
+img-045-029,79.49,98.5,fine sand
+img-045-029,98.5,103.34,very fine sand
+img-045-029,103.34,137.9,fine sand
+img-045-029,137.9,140.32,very fine sand
+img-045-029,140.32,152.76,fine sand
+img-045-030,0.0,5.79,silt/silty clay
+img-045-030,5.79,13.17,fine sand
+img-045-030,13.17,25.29,silt/silty clay
+img-045-030,25.29,49.52,fine sand
+img-045-030,49.52,54.78,very fine sand
+img-045-030,54.78,73.75,fine sand
+img-045-030,73.75,100.61,very fine sand
+img-045-030,100.61,113.26,fine sand
+img-045-030,113.26,122.21,very fine sand
+img-045-030,122.21,140.65,fine sand
+img-045-030,140.65,146.44,very fine sand
+img-045-030,146.44,155.93,fine sand
+img-045-030,155.93,168.04,very fine sand
+img-045-030,168.04,195.96,fine sand
+img-045-030,195.96,207.55,very fine sand
+img-045-030,207.55,277.61,fine sand
+img-045-030,277.61,305.53,very fine sand
+img-046-031,0.0,0.97,clay
+img-046-031,0.97,6.16,silt/silty clay
+img-046-031,6.16,43.14,very fine sand
+img-046-031,43.14,49.62,fine sand
+img-046-031,49.62,67.46,very fine sand
+img-046-031,67.46,74.59,fine sand
+img-046-031,74.59,79.46,very fine sand
+img-046-031,79.46,116.11,fine sand
+img-046-031,116.11,122.27,very fine sand
+img-046-031,122.27,190.05,fine sand
+img-046-032,0.0,12.26,very fine sand
+img-046-032,12.26,18.39,fine sand
+img-046-032,18.39,24.51,very fine sand
+img-046-032,24.51,39.84,fine sand
+img-046-032,39.84,40.69,clay
+img-046-032,40.69,42.29,silt/silty clay
+img-046-032,42.29,47.19,clay
+img-046-032,47.19,48.66,silt/silty clay
+img-046-032,48.66,53.81,clay
+img-046-032,53.81,55.28,silt/silty clay
+img-046-032,55.28,60.43,clay
+img-046-032,60.43,62.39,silt/silty clay
+img-046-032,62.39,64.35,clay
+img-046-033,0.0,12.15,silt/silty clay
+img-046-033,12.15,49.23,fine sand
+img-046-033,49.23,51.73,medium sand
+img-046-033,51.73,67.27,coarse sand
+img-046-034,0.0,6.45,silt/silty clay
+img-046-034,6.45,18.06,very fine sand
+img-046-034,18.06,49.35,fine sand
+img-046-034,49.35,73.23,very fine sand
+img-046-034,73.23,78.71,silt/silty clay
+img-046-034,78.71,81.94,fine sand
+img-046-034,81.94,83.23,coarse sand
+img-046-034,83.23,127.74,silt/silty clay
+img-046-034,127.74,140.0,very fine sand
+img-046-034,140.0,183.23,silt/silty clay
+img-046-035,0.0,21.94,clay
+img-046-035,21.94,43.2,very fine sand
+img-046-035,43.2,55.01,fine sand
+img-046-035,55.01,103.94,very fine sand
+img-046-035,103.94,110.69,fine sand
+img-046-035,110.69,122.5,very fine sand
+img-046-035,122.5,127.57,medium sand
+img-046-035,127.57,128.92,coarse sand
+img-046-035,128.92,155.91,very fine sand
+img-046-035,155.91,158.95,fine sand
+img-046-035,158.95,164.69,very fine sand
+img-046-035,164.69,166.04,coarse sand
+img-046-035,166.04,171.44,medium sand
+img-046-035,171.44,174.14,very fine sand
+img-046-035,174.14,183.25,fine sand
+img-046-035,183.25,193.04,medium sand
+img-046-036,0.0,18.68,silt/silty clay
+img-046-036,18.68,60.59,very fine sand
+img-046-036,60.59,82.5,fine sand
+img-046-037,0.0,1.32,clay
+img-046-037,1.32,4.97,silt/silty clay
+img-046-037,4.97,10.6,clay
+img-046-037,10.6,17.22,silt/silty clay
+img-046-037,17.22,18.54,clay
+img-046-037,18.54,33.44,very fine sand
+img-046-037,33.44,66.89,fine sand
+img-046-037,66.89,68.21,coarse sand
+img-046-037,68.21,91.72,medium sand
+img-046-037,91.72,112.91,fine sand
+img-046-037,112.91,170.2,medium sand
+img-046-037,170.2,171.19,coarse sand
+img-046-038,0.0,57.99,silt/silty clay
+img-046-038,57.99,60.49,very fine sand
+img-046-038,60.49,82.93,fine sand
+img-046-038,82.93,103.51,very fine sand
+img-046-038,103.51,106.01,clay
+img-046-038,106.01,115.36,silt/silty clay
+img-046-038,115.36,137.81,fine sand
+img-046-038,137.81,139.68,very fine sand
+img-046-038,139.68,146.54,medium sand
+img-046-038,146.54,159.63,fine sand
+img-046-038,159.63,161.5,very fine sand
+img-046-038,161.5,165.25,fine sand
+img-046-038,165.25,167.74,clay
+img-046-038,167.74,256.29,silt/silty clay
+img-046-038,256.29,258.78,very fine sand
+img-046-038,258.78,263.77,fine sand
+img-046-038,263.77,265.64,clay
+img-046-038,265.64,268.76,very fine sand
+img-046-038,268.76,273.12,fine sand
+img-046-038,273.12,281.85,very fine sand
+img-046-038,281.85,304.3,silt/silty clay
+img-046-038,304.3,306.17,clay
+img-046-039,0.0,14.14,fine sand
+img-046-039,14.14,30.89,very fine sand
+img-046-039,30.89,32.46,coarse sand
+img-046-039,32.46,37.17,medium sand
+img-046-039,37.17,39.27,coarse sand
+img-046-039,39.27,44.5,fine sand
+img-046-039,44.5,46.07,very fine sand
+img-046-039,46.07,67.02,silt/silty clay
+img-046-039,67.02,68.59,coarse sand
+img-046-039,68.59,73.82,medium sand
+img-046-039,73.82,98.43,fine sand
+img-046-039,98.43,122.51,silt/silty clay
+img-046-039,122.51,131.94,fine sand
+img-046-039,131.94,140.84,silt/silty clay
+img-046-039,140.84,159.69,fine sand
+img-046-039,159.69,174.35,very fine sand
+img-046-039,174.35,183.77,fine sand
+img-046-039,183.77,210.99,silt/silty clay
+img-046-039,210.99,214.66,very fine sand
+img-046-039,214.66,217.8,silt/silty clay
+img-046-039,217.8,219.9,very fine sand
+img-046-039,219.9,223.56,silt/silty clay
+img-046-039,223.56,232.46,very fine sand
+img-046-039,232.46,248.17,fine sand
+img-046-039,248.17,250.26,clay
+img-046-039,250.26,254.45,fine sand
+img-046-039,254.45,263.35,very fine sand
+img-046-039,263.35,278.01,fine sand
+img-046-039,278.01,281.15,very fine sand
+img-046-039,281.15,306.28,silt/silty clay
+img-047-040,0.0,2.38,clay
+img-047-040,2.38,15.44,medium sand
+img-047-040,15.44,22.57,fine sand
+img-047-040,22.57,33.25,medium sand
+img-047-040,33.25,92.04,very fine sand
+img-047-040,92.04,98.57,silt/silty clay
+img-047-040,98.57,100.95,coarse sand
+img-047-040,100.95,109.26,silt/silty clay
+img-047-040,109.26,124.7,very fine sand
+img-047-040,124.7,133.61,silt/silty clay
+img-047-040,133.61,156.77,very fine sand
+img-047-040,156.77,168.05,silt/silty clay
+img-047-040,168.05,182.3,very fine sand
+img-047-040,182.3,192.4,silt/silty clay
+img-047-040,192.4,216.75,very fine sand
+img-047-040,216.75,237.53,silt/silty clay
+img-047-040,237.53,241.09,very fine sand
+img-047-040,241.09,268.41,silt/silty clay
+img-047-040,268.41,301.66,very fine sand
+img-047-041,0.0,3.51,fine sand
+img-047-041,3.51,8.94,very fine sand
+img-047-041,8.94,38.94,medium sand
+img-047-041,38.94,52.02,coarse sand
+img-047-041,52.02,55.85,fine sand
+img-047-041,55.85,63.83,medium sand
+img-047-041,63.83,113.62,fine sand
+img-047-041,113.62,127.66,medium sand
+img-047-041,127.66,140.43,fine sand
+img-047-041,140.43,155.74,silt/silty clay
+img-047-042,0.0,5.81,silt/silty clay
+img-047-042,5.81,23.77,very fine sand
+img-047-042,23.77,31.69,fine sand
+img-047-042,31.69,42.78,very fine sand
+img-047-042,42.78,48.59,silt/silty clay
+img-047-042,48.59,51.23,very fine sand
+img-047-042,51.23,55.46,fine sand
+img-047-042,55.46,66.55,very fine sand
+img-047-042,66.55,97.71,fine sand
+img-047-042,97.71,118.84,very fine sand
+img-047-042,118.84,146.83,fine sand
+img-047-042,146.83,152.11,very fine sand
+img-047-042,152.11,157.92,silt/silty clay
+img-047-042,157.92,182.75,very fine sand
+img-047-042,182.75,195.42,fine sand
+img-047-042,195.42,203.87,silt/silty clay
+img-047-042,203.87,213.38,very fine sand
+img-047-042,213.38,238.2,fine sand
+img-047-042,238.2,249.3,very fine sand
+img-047-042,249.3,256.69,fine sand
+img-047-042,256.69,268.31,very fine sand
+img-047-042,268.31,299.47,fine sand
+img-047-042,299.47,302.64,silt/silty clay
+img-047-043,0.0,3.48,fine sand
+img-047-043,3.48,15.65,very fine sand
+img-047-043,15.65,25.51,fine sand
+img-047-043,25.51,28.41,very fine sand
+img-047-043,28.41,30.14,coarse sand
+img-047-043,30.14,40.0,fine sand
+img-047-043,40.0,67.25,silt/silty clay
+img-047-043,67.25,70.14,very fine sand
+img-047-043,70.14,86.38,fine sand
+img-047-043,86.38,99.71,very fine sand
+img-047-043,99.71,110.14,fine sand
+img-047-043,110.14,139.71,very fine sand
+img-047-043,139.71,171.59,fine sand
+img-047-043,171.59,182.03,very fine sand
+img-047-043,182.03,194.78,fine sand
+img-047-043,194.78,200.58,very fine sand
+img-047-043,200.58,213.33,fine sand
+img-047-043,213.33,218.55,very fine sand
+img-047-043,218.55,228.99,fine sand
+img-047-043,228.99,240.0,very fine sand
+img-047-043,240.0,252.75,fine sand
+img-047-043,252.75,286.38,very fine sand
+img-047-043,286.38,302.03,silt/silty clay
+img-047-044,0.0,3.66,clay
+img-047-044,3.66,19.32,very fine sand
+img-047-044,19.32,25.07,silt/silty clay
+img-047-044,25.07,49.09,very fine sand
+img-047-044,49.09,52.22,fine sand
+img-047-044,52.22,64.23,very fine sand
+img-047-044,64.23,67.36,fine sand
+img-047-044,67.36,72.58,very fine sand
+img-047-044,72.58,85.12,silt/silty clay
+img-047-044,85.12,91.91,fine sand
+img-047-044,91.91,93.99,silt/silty clay
+img-047-044,93.99,107.05,fine sand
+img-047-044,107.05,109.66,very fine sand
+img-047-044,109.66,115.4,silt/silty clay
+img-047-044,115.4,118.02,very fine sand
+img-047-044,118.02,121.67,fine sand
+img-047-044,121.67,127.42,very fine sand
+img-047-044,127.42,137.34,fine sand
+img-047-044,137.34,142.56,very fine sand
+img-047-044,142.56,155.61,fine sand
+img-047-044,155.61,163.97,very fine sand
+img-047-044,163.97,166.58,silt/silty clay
+img-047-044,166.58,173.89,very fine sand
+img-047-044,173.89,176.5,silt/silty clay
+img-047-044,176.5,185.38,very fine sand
+img-047-044,185.38,194.78,fine sand
+img-047-044,194.78,197.91,clay
+img-047-044,197.91,201.04,very fine sand
+img-047-044,201.04,206.79,silt/silty clay
+img-047-044,206.79,209.4,very fine sand
+img-047-044,209.4,213.05,fine sand
+img-047-044,213.05,218.8,very fine sand
+img-047-044,218.8,234.99,fine sand
+img-047-044,234.99,239.69,silt/silty clay
+img-047-044,239.69,242.82,very fine sand
+img-047-044,242.82,245.43,silt/silty clay
+img-047-044,245.43,250.13,fine sand
+img-047-044,250.13,252.22,very fine sand
+img-047-044,252.22,256.4,silt/silty clay
+img-047-044,256.4,257.96,clay
+img-047-044,257.96,261.62,fine sand
+img-047-044,261.62,267.36,very fine sand
+img-047-044,267.36,271.02,silt/silty clay
+img-047-044,271.02,273.63,very fine sand
+img-047-044,273.63,283.03,fine sand
+img-047-044,283.03,285.64,very fine sand
+img-047-044,285.64,304.44,silt/silty clay
+img-048-045,0.0,5.4,clay
+img-048-045,5.4,8.09,silt/silty clay
+img-048-045,8.09,12.41,clay
+img-048-045,12.41,33.45,silt/silty clay
+img-048-045,33.45,39.39,clay
+img-048-045,39.39,42.09,silt/silty clay
+img-048-045,42.09,61.51,fine sand
+img-048-045,61.51,87.95,silt/silty clay
+img-048-045,87.95,91.19,clay
+img-048-045,91.19,96.04,medium sand
+img-048-045,96.04,99.82,coarse sand
+img-048-045,99.82,107.91,silt/silty clay
+img-048-045,107.91,109.53,clay
+img-048-045,109.53,119.78,fine sand
+img-048-045,119.78,121.4,clay
+img-048-045,121.4,127.88,fine sand
+img-048-045,127.88,131.65,clay
+img-048-045,131.65,135.43,silt/silty clay
+img-048-045,135.43,145.68,clay
+img-048-045,145.68,169.42,medium sand
+img-048-045,169.42,172.12,coarse sand
+img-048-045,172.12,175.9,clay
+img-048-045,175.9,186.69,silt/silty clay
+img-048-045,186.69,202.88,clay
+img-048-045,202.88,219.6,silt/silty clay
+img-048-045,219.6,226.08,fine sand
+img-048-045,226.08,230.4,clay
+img-048-045,230.4,239.03,silt/silty clay
+img-048-045,239.03,240.65,clay
+img-048-045,240.65,252.52,fine sand
+img-048-045,252.52,260.07,silt/silty clay
+img-048-045,260.07,262.23,clay
+img-048-045,262.23,271.94,fine sand
+img-048-045,271.94,289.75,medium sand
+img-048-045,289.75,305.94,fine sand
+img-048-046,0.0,4.27,silt/silty clay
+img-048-046,4.27,5.87,clay
+img-048-046,5.87,13.86,fine sand
+img-048-046,13.86,22.39,clay
+img-048-046,22.39,23.99,very fine sand
+img-048-046,23.99,34.12,fine sand
+img-048-046,34.12,39.46,very fine sand
+img-048-046,39.46,45.32,fine sand
+img-048-046,45.32,70.91,silt/silty clay
+img-048-046,70.91,78.91,very fine sand
+img-048-046,78.91,80.51,coarse sand
+img-048-046,80.51,84.78,medium sand
+img-048-046,84.78,91.71,coarse sand
+img-048-046,91.71,97.57,medium sand
+img-048-046,97.57,125.3,fine sand
+img-048-046,125.3,127.43,coarse sand
+img-048-046,127.43,131.7,fine sand
+img-048-046,131.7,134.36,coarse sand
+img-048-046,134.36,137.03,very fine sand
+img-048-046,137.03,155.69,fine sand
+img-048-046,155.69,158.36,medium sand
+img-048-046,158.36,164.76,fine sand
+img-048-046,164.76,168.49,coarse sand
+img-048-046,168.49,171.15,fine sand
+img-048-046,171.15,186.08,medium sand
+img-048-046,186.08,201.55,fine sand
+img-048-046,201.55,209.01,very fine sand
+img-048-046,209.01,220.21,fine sand
+img-048-046,220.21,225.01,very fine sand
+img-048-046,225.01,229.27,fine sand
+img-048-046,229.27,238.87,very fine sand
+img-048-046,238.87,242.6,silt/silty clay
+img-048-046,242.6,246.33,clay
+img-048-046,246.33,249.53,silt/silty clay
+img-048-046,249.53,262.33,fine sand
+img-048-046,262.33,268.2,medium sand
+img-048-046,268.2,274.59,fine sand
+img-048-046,274.59,279.93,very fine sand
+img-048-046,279.93,286.32,fine sand
+img-048-046,286.32,291.66,very fine sand
+img-048-046,291.66,305.52,silt/silty clay
+img-048-047,0.0,12.54,very fine sand
+img-048-047,12.54,99.77,silt/silty clay
+img-048-047,99.77,101.41,clay
+img-048-047,101.41,104.13,very fine sand
+img-048-047,104.13,141.75,fine sand
+img-048-047,141.75,143.93,clay
+img-048-047,143.93,150.48,silt/silty clay
+img-048-047,150.48,165.74,very fine sand
+img-048-047,165.74,167.92,silt/silty clay
+img-048-047,167.92,171.74,fine sand
+img-048-047,171.74,177.74,very fine sand
+img-048-047,177.74,187.01,silt/silty clay
+img-048-047,187.01,200.09,very fine sand
+img-048-047,200.09,203.36,coarse sand
+img-048-047,203.36,214.81,silt/silty clay
+img-048-047,214.81,216.99,clay
+img-048-047,216.99,219.72,silt/silty clay
+img-048-047,219.72,229.53,very fine sand
+img-048-047,229.53,250.8,fine sand
+img-048-047,250.8,257.34,very fine sand
+img-048-047,257.34,293.87,silt/silty clay
+img-048-047,293.87,303.68,very fine sand
+img-048-048,0.0,3.3,clay
+img-048-048,3.3,27.78,very fine sand
+img-048-048,27.78,31.07,fine sand
+img-048-048,31.07,36.72,very fine sand
+img-048-048,36.72,43.31,silt/silty clay
+img-048-048,43.31,48.96,very fine sand
+img-048-048,48.96,53.67,silt/silty clay
+img-048-048,53.67,55.55,clay
+img-048-048,55.55,61.67,very fine sand
+img-048-048,61.67,65.44,fine sand
+img-048-048,65.44,73.44,very fine sand
+img-048-048,73.44,77.68,clay
+img-048-048,77.68,81.44,medium sand
+img-048-048,81.44,83.33,coarse sand
+img-048-048,83.33,85.68,fine sand
+img-048-048,85.68,88.04,coarse sand
+img-048-048,88.04,89.92,medium sand
+img-048-048,89.92,94.63,silt/silty clay
+img-048-048,94.63,97.92,very fine sand
+img-048-048,97.92,131.82,fine sand
+img-048-048,131.82,134.64,silt/silty clay
+img-048-048,134.64,141.7,fine sand
+img-048-048,141.7,146.88,silt/silty clay
+img-048-048,146.88,150.18,very fine sand
+img-048-048,150.18,153.94,fine sand
+img-048-048,153.94,155.36,very fine sand
+img-048-048,155.36,162.42,fine sand
+img-048-048,162.42,165.24,very fine sand
+img-048-048,165.24,170.89,silt/silty clay
+img-048-048,170.89,183.6,fine sand
+img-048-048,183.6,185.02,medium sand
+img-048-048,185.02,186.43,coarse sand
+img-048-048,186.43,190.19,fine sand
+img-048-048,190.19,201.96,silt/silty clay
+img-048-048,201.96,208.08,very fine sand
+img-048-048,208.08,209.5,silt/silty clay
+img-048-048,209.5,211.85,clay
+img-048-048,211.85,221.27,very fine sand
+img-048-048,221.27,230.21,silt/silty clay
+img-048-048,230.21,232.56,clay
+img-048-048,232.56,259.87,silt/silty clay
+img-048-048,259.87,262.69,very fine sand
+img-048-048,262.69,265.99,fine sand
+img-048-048,265.99,269.29,very fine sand
+img-048-048,269.29,278.7,fine sand
+img-048-048,278.7,287.18,silt/silty clay
+img-048-048,287.18,290.47,fine sand
+img-048-048,290.47,298.47,very fine sand
+img-048-048,298.47,300.36,silt/silty clay
+img-048-049,0.0,3.17,clay
+img-048-049,3.17,4.76,silt/silty clay
+img-048-049,4.76,7.94,clay
+img-048-049,7.94,12.7,silt/silty clay
+img-048-049,12.7,35.45,very fine sand
+img-048-049,35.45,49.21,silt/silty clay
+img-048-049,49.21,60.85,very fine sand
+img-048-049,60.85,110.58,fine sand
+img-048-049,110.58,122.22,medium sand
+img-048-049,122.22,139.15,coarse sand
+img-048-049,139.15,149.21,medium sand
+img-048-049,149.21,185.71,coarse sand
+img-048-049,185.71,192.59,silt/silty clay
+img-048-049,192.59,197.88,clay
+img-048-049,197.88,208.99,silt/silty clay
+img-048-049,208.99,212.7,clay
+img-048-049,212.7,220.11,silt/silty clay
+img-048-049,220.11,225.4,clay
+img-048-049,225.4,285.19,silt/silty clay
+img-048-049,285.19,289.95,clay
+img-048-049,289.95,297.35,silt/silty clay
+img-048-049,297.35,305.82,clay
+img-048-050,0.0,30.42,very fine sand
+img-048-050,30.42,32.52,clay
+img-048-050,32.52,56.12,silt/silty clay
+img-048-050,56.12,79.72,very fine sand
+img-048-050,79.72,98.6,fine sand
+img-048-050,98.6,104.37,silt/silty clay
+img-048-050,104.37,109.62,very fine sand
+img-048-050,109.62,116.43,fine sand
+img-048-050,116.43,166.78,silt/silty clay
+img-048-050,166.78,169.41,coarse sand
+img-048-050,169.41,179.37,medium sand
+img-048-050,179.37,182.52,coarse sand
+img-048-050,182.52,188.81,clay
+img-048-050,188.81,200.87,silt/silty clay
+img-048-050,200.87,202.45,coarse sand
+img-048-050,202.45,207.69,medium sand
+img-048-050,207.69,213.99,fine sand
+img-048-050,213.99,219.23,silt/silty clay
+img-048-050,219.23,229.2,very fine sand
+img-048-050,229.2,231.82,clay
+img-048-050,231.82,234.44,silt/silty clay
+img-048-050,234.44,243.36,clay
+img-048-050,243.36,255.94,silt/silty clay
+img-048-050,255.94,258.57,clay
+img-048-050,258.57,277.45,silt/silty clay
+img-048-050,277.45,281.64,clay
+img-048-050,281.64,288.99,silt/silty clay
+img-048-050,288.99,297.9,clay
+img-048-050,297.9,302.1,silt/silty clay
+img-048-050,302.1,305.24,clay
+img-048-051,0.0,2.41,clay
+img-048-051,2.41,3.75,silt/silty clay
+img-048-051,3.75,6.69,clay
+img-048-051,6.69,12.31,silt/silty clay
+img-048-051,12.31,27.29,very fine sand
+img-048-051,27.29,31.04,fine sand
+img-048-051,31.04,42.54,very fine sand
+img-048-051,42.54,58.33,fine sand
+img-048-051,58.33,73.85,very fine sand
+img-048-051,73.85,76.25,medium sand
+img-048-051,76.25,79.46,fine sand
+img-048-051,79.46,81.87,very fine sand
+img-048-051,81.87,85.62,fine sand
+img-048-051,85.62,88.29,very fine sand
+img-048-051,88.29,119.06,medium sand
+img-048-051,119.06,128.43,fine sand
+img-048-052,0.0,5.11,clay
+img-048-052,5.11,9.75,silt/silty clay
+img-048-052,9.75,13.47,clay
+img-048-052,13.47,29.26,silt/silty clay
+img-048-052,29.26,33.9,clay
+img-048-052,33.9,37.15,silt/silty clay
+img-048-052,37.15,41.8,clay
+img-048-052,41.8,48.76,silt/silty clay
+img-048-052,48.76,93.34,medium sand
+img-048-052,93.34,95.2,coarse sand
+img-048-052,95.2,104.02,fine sand
+img-048-052,104.02,111.92,medium sand
+img-048-052,111.92,113.78,coarse sand
+img-048-052,113.78,146.28,fine sand
+img-048-052,146.28,148.14,coarse sand
+img-048-052,148.14,230.8,medium sand
+img-048-052,230.8,232.66,coarse sand
+img-048-053,0.0,4.56,clay
+img-048-053,4.56,9.11,silt/silty clay
+img-048-053,9.11,31.38,very fine sand
+img-048-053,31.38,49.61,fine sand
+img-048-053,49.61,78.97,medium sand
+img-048-053,78.97,80.49,coarse sand
+img-048-053,80.49,91.62,silt/silty clay
+img-048-053,91.62,102.25,fine sand
+img-048-053,102.25,134.14,very fine sand
+img-048-053,134.14,188.81,silt/silty clay
+img-048-053,188.81,202.48,fine sand
+img-048-053,202.48,220.2,medium sand
+img-048-053,220.2,233.86,very fine sand
+img-048-053,233.86,246.01,medium sand
+img-048-053,246.01,249.56,silt/silty clay
+img-048-053,249.56,255.13,clay
+img-048-053,255.13,259.68,silt/silty clay
+img-048-053,259.68,271.32,clay
+img-048-053,271.32,273.85,silt/silty clay
+img-048-053,273.85,283.98,clay
+img-048-053,283.98,288.53,silt/silty clay
+img-048-053,288.53,298.15,clay
+img-048-053,298.15,302.71,silt/silty clay
+img-048-053,302.71,306.25,clay
+img-049-054,0.0,2.81,clay
+img-049-054,2.81,8.9,silt/silty clay
+img-049-054,8.9,11.24,clay
+img-049-054,11.24,13.58,silt/silty clay
+img-049-054,13.58,16.86,clay
+img-049-054,16.86,18.27,silt/silty clay
+img-049-054,18.27,29.98,very fine sand
+img-049-054,29.98,34.19,fine sand
+img-049-054,34.19,37.0,clay
+img-049-054,37.0,43.56,fine sand
+img-049-054,43.56,54.8,very fine sand
+img-049-054,54.8,58.08,fine sand
+img-049-054,58.08,61.36,very fine sand
+img-049-054,61.36,79.16,fine sand
+img-049-054,79.16,82.44,coarse sand
+img-049-054,82.44,88.99,fine sand
+img-049-054,88.99,90.87,medium sand
+img-049-054,90.87,98.36,fine sand
+img-049-054,98.36,109.6,medium sand
+img-049-054,109.6,117.1,fine sand
+img-049-054,117.1,120.84,clay
+img-049-054,120.84,128.81,silt/silty clay
+img-049-054,128.81,134.89,clay
+img-049-054,134.89,139.58,silt/silty clay
+img-049-054,139.58,149.41,medium sand
+img-049-054,149.41,153.16,fine sand
+img-049-054,153.16,155.5,clay
+img-049-054,155.5,168.62,fine sand
+img-049-054,168.62,170.49,medium sand
+img-049-054,170.49,177.05,fine sand
+img-049-054,177.05,182.2,clay
+img-049-054,182.2,183.61,coarse sand
+img-049-054,183.61,185.48,medium sand
+img-049-054,185.48,192.97,fine sand
+img-049-054,192.97,201.41,clay
+img-049-054,201.41,203.28,very fine sand
+img-049-054,203.28,207.96,fine sand
+img-049-054,207.96,222.48,very fine sand
+img-049-054,222.48,231.38,fine sand
+img-049-054,231.38,236.07,medium sand
+img-049-054,236.07,237.94,coarse sand
+img-049-054,237.94,243.56,fine sand
+img-049-054,243.56,257.61,very fine sand
+img-049-054,257.61,259.02,silt/silty clay
+img-049-054,259.02,266.98,clay
+img-049-054,266.98,269.32,silt/silty clay
+img-049-054,269.32,272.6,clay
+img-049-054,272.6,286.65,silt/silty clay
+img-049-055,0.0,30.68,silt/silty clay
+img-049-055,30.68,45.74,very fine sand
+img-049-055,45.74,122.73,fine sand
+img-049-055,122.73,128.41,silt/silty clay
+img-049-055,128.41,140.91,fine sand
+img-049-056,0.0,24.43,silt/silty clay
+img-049-056,24.43,42.8,fine sand
+img-049-056,42.8,48.67,silt/silty clay
+img-049-056,48.67,67.23,fine sand
+img-049-056,67.23,72.92,silt/silty clay
+img-049-056,72.92,85.42,fine sand
+img-049-056,85.42,91.1,silt/silty clay
+img-049-056,91.1,109.85,fine sand
+img-049-057,0.0,6.39,clay
+img-049-057,6.39,28.24,fine sand
+img-049-057,28.24,40.5,medium sand
+img-049-057,40.5,42.63,very fine sand
+img-049-057,42.63,44.76,coarse sand
+img-049-057,44.76,48.49,medium sand
+img-049-057,48.49,74.07,coarse sand
+img-049-057,74.07,85.26,very fine sand
+img-049-057,85.26,98.05,fine sand
+img-049-057,98.05,138.01,medium sand
+img-049-057,138.01,143.87,fine sand
+img-049-057,143.87,145.47,coarse sand
+img-049-057,145.47,178.51,medium sand
+img-049-057,178.51,180.64,coarse sand
+img-049-057,180.64,185.97,fine sand
+img-049-057,185.97,188.1,coarse sand
+img-049-057,188.1,201.42,medium sand
+img-049-057,201.42,229.13,fine sand
+img-049-057,229.13,295.2,medium sand
+img-049-057,295.2,297.34,coarse sand
+img-049-057,297.34,305.86,silt/silty clay
+img-049-058,0.0,1.4,clay
+img-049-058,1.4,5.58,silt/silty clay
+img-049-058,5.58,12.56,fine sand
+img-049-058,12.56,27.91,very fine sand
+img-049-058,27.91,30.7,fine sand
+img-049-058,30.7,49.3,very fine sand
+img-049-058,49.3,55.81,fine sand
+img-049-058,55.81,57.21,very fine sand
+img-049-058,57.21,64.19,fine sand
+img-049-058,64.19,92.09,very fine sand
+img-049-058,92.09,104.19,medium sand
+img-049-058,104.19,116.28,fine sand
+img-049-058,116.28,123.26,very fine sand
+img-049-058,123.26,127.44,silt/silty clay
+img-049-058,127.44,140.93,clay
+img-049-058,140.93,146.51,silt/silty clay
+img-049-058,146.51,153.02,fine sand
+img-049-058,153.02,171.16,very fine sand
+img-049-058,171.16,190.7,fine sand
+img-049-058,190.7,207.91,very fine sand
+img-049-058,207.91,213.49,fine sand
+img-049-058,213.49,220.0,very fine sand
+img-049-058,220.0,232.09,fine sand
+img-049-058,232.09,238.14,very fine sand
+img-049-058,238.14,250.23,medium sand
+img-049-058,250.23,256.74,very fine sand
+img-049-058,256.74,263.72,fine sand
+img-049-058,263.72,268.84,very fine sand
+img-049-058,268.84,275.81,fine sand
+img-049-058,275.81,293.49,very fine sand
+img-049-058,293.49,299.07,fine sand
+img-049-058,299.07,306.05,very fine sand
+img-049-059,0.0,8.06,clay
+img-049-059,8.06,10.75,silt/silty clay
+img-049-059,10.75,14.52,clay
+img-049-059,14.52,16.67,silt/silty clay
+img-049-059,16.67,19.89,clay
+img-049-059,19.89,23.12,silt/silty clay
+img-049-059,23.12,26.88,clay
+img-049-059,26.88,28.49,silt/silty clay
+img-049-059,28.49,31.72,clay
+img-049-059,31.72,61.29,very fine sand
+img-049-059,61.29,74.73,fine sand
+img-049-059,74.73,80.11,very fine sand
+img-049-059,80.11,97.85,medium sand
+img-049-059,97.85,104.3,very fine sand
+img-049-059,104.3,109.68,medium sand
+img-049-059,109.68,125.27,fine sand
+img-049-059,125.27,130.65,very fine sand
+img-049-059,130.65,134.95,fine sand
+img-049-059,134.95,143.55,very fine sand
+img-049-059,143.55,152.69,fine sand
+img-049-059,152.69,161.83,very fine sand
+img-049-059,161.83,170.97,fine sand
+img-049-059,170.97,183.87,medium sand
+img-049-059,183.87,203.76,silt/silty clay
+img-049-059,203.76,219.89,medium sand
+img-049-059,219.89,237.63,very fine sand
+img-049-059,237.63,243.55,silt/silty clay
+img-049-059,243.55,280.65,very fine sand
+img-049-059,280.65,284.41,fine sand
+img-049-059,284.41,287.63,clay
+img-049-060,0.0,12.45,silt/silty clay
+img-049-060,12.45,19.49,very fine sand
+img-049-060,19.49,22.2,clay
+img-049-060,22.2,52.53,very fine sand
+img-049-060,52.53,55.78,silt/silty clay
+img-049-060,55.78,59.03,very fine sand
+img-049-060,59.03,67.69,fine sand
+img-049-060,67.69,110.47,very fine sand
+img-049-060,110.47,116.43,fine sand
+img-049-060,116.43,132.13,clay
+img-049-060,132.13,154.33,fine sand
+img-049-060,154.33,174.37,silt/silty clay
+img-049-060,174.37,184.12,fine sand
+img-049-060,184.12,185.74,very fine sand
+img-049-060,185.74,214.44,fine sand
+img-049-060,214.44,219.86,clay
+img-049-060,219.86,227.44,fine sand
+img-049-060,227.44,229.6,medium sand
+img-049-060,229.6,235.56,silt/silty clay
+img-049-060,235.56,238.81,fine sand
+img-049-060,238.81,241.52,very fine sand
+img-049-060,241.52,245.31,silt/silty clay
+img-049-060,245.31,257.22,very fine sand
+img-049-060,257.22,266.97,fine sand
+img-049-060,266.97,268.59,coarse sand
+img-049-060,268.59,278.34,fine sand
+img-049-060,278.34,281.05,very fine sand
+img-049-060,281.05,285.38,fine sand
+img-049-060,285.38,307.04,clay
+img-049-061,0.0,12.71,silt/silty clay
+img-049-061,12.71,63.96,very fine sand
+img-049-061,63.96,109.73,fine sand
+img-049-062,0.0,6.77,clay
+img-049-062,6.77,25.0,very fine sand
+img-049-062,25.0,73.44,fine sand
+img-049-062,73.44,79.17,very fine sand
+img-049-062,79.17,102.6,medium sand
+img-049-062,102.6,110.42,coarse sand
+img-049-062,110.42,115.1,fine sand
+img-049-062,115.1,116.67,coarse sand
+img-049-062,116.67,121.88,medium sand
+img-049-062,121.88,134.38,fine sand
+img-049-062,134.38,140.1,very fine sand
+img-049-062,140.1,146.88,fine sand
+img-049-062,146.88,164.06,very fine sand
+img-049-062,164.06,182.81,fine sand
+img-049-062,182.81,188.02,medium sand
+img-049-062,188.02,189.58,coarse sand
+img-049-062,189.58,207.29,fine sand
+img-049-062,207.29,213.02,medium sand
+img-049-062,213.02,225.52,fine sand
+img-049-062,225.52,240.62,very fine sand
+img-049-062,240.62,250.0,fine sand
+img-049-062,250.0,261.98,very fine sand
+img-049-062,261.98,272.4,silt/silty clay
+img-049-062,272.4,274.48,coarse sand
+img-049-062,274.48,285.94,medium sand
+img-049-062,285.94,292.71,fine sand
+img-049-062,292.71,305.21,very fine sand
+img-050-063,0.0,3.6,clay
+img-050-063,3.6,6.17,silt/silty clay
+img-050-063,6.17,8.74,clay
+img-050-063,8.74,10.8,silt/silty clay
+img-050-063,10.8,13.88,clay
+img-050-063,13.88,18.51,silt/silty clay
+img-050-063,18.51,24.17,very fine sand
+img-050-063,24.17,30.85,fine sand
+img-050-063,30.85,42.68,silt/silty clay
+img-050-063,42.68,49.88,fine sand
+img-050-063,49.88,55.02,silt/silty clay
+img-050-063,55.02,66.84,fine sand
+img-050-063,66.84,68.9,coarse sand
+img-050-063,68.9,73.01,medium sand
+img-050-063,73.01,82.27,very fine sand
+img-050-063,82.27,94.61,fine sand
+img-050-063,94.61,106.44,medium sand
+img-050-063,106.44,110.04,silt/silty clay
+img-050-063,110.04,116.72,clay
+img-050-063,116.72,124.95,very fine sand
+img-050-063,124.95,134.2,fine sand
+img-050-063,134.2,140.37,very fine sand
+img-050-063,140.37,164.54,fine sand
+img-050-063,164.54,166.6,coarse sand
+img-050-063,166.6,171.22,medium sand
+img-050-063,171.22,189.73,fine sand
+img-050-063,189.73,191.79,very fine sand
+img-050-063,191.79,197.96,silt/silty clay
+img-050-063,197.96,228.81,fine sand
+img-050-063,228.81,264.8,silt/silty clay
+img-050-063,264.8,284.34,fine sand
+img-050-063,284.34,289.49,clay
+img-050-063,289.49,299.26,fine sand
+img-050-064,0.0,12.86,silt/silty clay
+img-050-064,12.86,21.9,very fine sand
+img-050-064,21.9,43.81,silt/silty clay
+img-050-064,43.81,55.24,very fine sand
+img-050-064,55.24,110.48,fine sand
+img-050-064,110.48,118.1,silt/silty clay
+img-050-064,118.1,128.57,fine sand
+img-050-064,128.57,130.95,silt/silty clay
+img-050-064,130.95,137.14,fine sand
+img-050-064,137.14,142.38,very fine sand
+img-050-064,142.38,170.95,fine sand
+img-050-064,170.95,176.19,very fine sand
+img-050-064,176.19,201.9,fine sand
+img-050-064,201.9,213.33,silt/silty clay
+img-050-064,213.33,239.52,very fine sand
+img-050-064,239.52,271.9,fine sand
+img-050-064,271.9,284.29,very fine sand
+img-050-064,284.29,305.24,silt/silty clay
+img-050-065,0.0,3.23,clay
+img-050-065,3.23,9.14,silt/silty clay
+img-050-065,9.14,12.9,clay
+img-050-065,12.9,18.28,very fine sand
+img-050-065,18.28,40.86,fine sand
+img-050-065,40.86,43.01,clay
+img-050-065,43.01,52.15,very fine sand
+img-050-065,52.15,61.29,fine sand
+img-050-065,61.29,66.67,very fine sand
+img-050-065,66.67,79.57,fine sand
+img-050-065,79.57,86.02,very fine sand
+img-050-065,86.02,176.34,medium sand
+img-050-065,176.34,182.8,very fine sand
+img-050-065,182.8,188.71,silt/silty clay
+img-050-065,188.71,196.24,clay
+img-050-065,196.24,198.92,silt/silty clay
+img-050-065,198.92,201.08,clay
+img-050-065,201.08,212.9,very fine sand
+img-050-065,212.9,237.63,fine sand
+img-050-065,237.63,260.75,medium sand
+img-050-065,260.75,262.37,coarse sand
+img-050-065,262.37,270.97,fine sand
+img-050-065,270.97,286.56,very fine sand
+img-050-065,286.56,291.94,silt/silty clay
+img-050-065,291.94,296.24,clay
+img-050-065,296.24,298.92,silt/silty clay
+img-050-065,298.92,301.08,clay
+img-050-065,301.08,304.84,silt/silty clay
+img-050-066,0.0,1.74,clay
+img-050-066,1.74,51.74,silt/silty clay
+img-050-066,51.74,77.33,fine sand
+img-050-066,77.33,93.02,silt/silty clay
+img-050-066,93.02,112.21,very fine sand
+img-050-066,112.21,122.09,fine sand
+img-050-066,122.09,130.23,very fine sand
+img-050-066,130.23,153.49,fine sand
+img-050-066,153.49,162.21,very fine sand
+img-050-066,162.21,290.12,silt/silty clay
+img-050-066,290.12,294.19,clay
+img-050-066,294.19,298.26,silt/silty clay
+img-050-066,298.26,304.65,clay
+img-050-067,0.0,1.57,clay
+img-050-067,1.57,6.29,silt/silty clay
+img-050-067,6.29,33.56,very fine sand
+img-050-067,33.56,39.86,fine sand
+img-050-067,39.86,76.56,silt/silty clay
+img-050-067,76.56,78.14,coarse sand
+img-050-067,78.14,86.0,medium sand
+img-050-067,86.0,100.69,silt/silty clay
+img-050-067,100.69,112.75,very fine sand
+img-050-067,112.75,122.71,fine sand
+img-050-067,122.71,127.96,silt/silty clay
+img-050-067,127.96,149.98,fine sand
+img-050-067,149.98,228.64,silt/silty clay
+img-050-067,228.64,247.52,fine sand
+img-050-067,247.52,306.26,silt/silty clay
+img-050-068,0.0,1.42,clay
+img-050-068,1.42,10.91,silt/silty clay
+img-050-068,10.91,27.98,very fine sand
+img-050-068,27.98,33.67,silt/silty clay
+img-050-068,33.67,37.46,fine sand
+img-050-068,37.46,39.36,very fine sand
+img-050-068,39.36,77.76,fine sand
+img-050-068,77.76,85.35,very fine sand
+img-050-068,85.35,110.0,fine sand
+img-050-068,110.0,112.85,very fine sand
+img-050-068,112.85,122.81,fine sand
+img-050-068,122.81,128.02,very fine sand
+img-050-068,128.02,162.64,fine sand
+img-050-068,162.64,170.22,very fine sand
+img-050-068,170.22,176.86,fine sand
+img-050-068,176.86,188.24,very fine sand
+img-050-068,188.24,220.01,fine sand
+img-050-068,220.01,221.91,silt/silty clay
+img-050-068,221.91,226.17,fine sand
+img-050-068,226.17,231.39,very fine sand
+img-050-068,231.39,238.03,fine sand
+img-050-068,238.03,246.09,very fine sand
+img-050-068,246.09,252.73,fine sand
+img-050-068,252.73,258.89,silt/silty clay
+img-050-068,258.89,266.95,very fine sand
+img-050-068,266.95,275.01,fine sand
+img-050-068,275.01,283.55,very fine sand
+img-050-068,283.55,304.88,fine sand

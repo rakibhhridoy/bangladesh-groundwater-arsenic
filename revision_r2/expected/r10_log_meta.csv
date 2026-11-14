@@ -1,0 +1,70 @@
+image,ok,title,top_m,total_depth_m,m_per_px,n_layers,source,n_labels,tick_m
+img-040-000,True,"BWDB Rest House Compound, Svihet Sadar. Svihet",0.0,305.32,0.5602,13,ocr,5.0,9.99
+img-040-001,True,"BWDB Rest House Compound, Maulvibazar Sadar, Maulvibazar",0.0,287.1,0.4608,14,ocr,6.0,9.97
+img-040-002,True,"BWDB Subdivision Office Compound, Hathazari, Chittagong",0.0,305.21,0.5208,29,ocr,5.0,9.98
+img-041-003,True,"WARPO Compound, Green Road, Dhaka",0.0,292.36,0.4746,24,ocr+step,6.0,
+img-041-004,True,"BWDB Pump House, Guranchatbari, Mirpur, Dhaka",0.0,305.32,0.5319,11,ocr+step,5.0,
+img-041-005,True,"BWDB Colony, Rohanpur, Gomastapur, Chapainawabganj",0.0,70.0,0.1333,27,ocr+step,3.0,
+img-041-006,True,"BWDB Subdivision Office Compound, Joypurhat Sadar, Joypurhat",0.0,73.17,0.1587,3,ocr,3.0,9.98
+img-041-007,True,"BWDB O&M Subdivision Office Compound, Dinajpur Sadar, Dinajpur",0.0,305.01,0.5214,23,ocr,2.0,9.94
+img-042-008,True,"BWDB Office Compound, Chandpur Sadar, Chandpur",0.0,304.82,0.4726,20,ocr,3.0,9.97
+img-042-009,True,"BWDB Subdivision Office Compound, Cumilla Sadar, Cumilla",0.0,311.88,0.5797,45,ocr,5.0,10.0
+img-042-010,True,"BWDB Subdivision Office Compound, EFani Sadar Fen",0.0,305.45,0.5195,33,ocr+step,3.0,
+img-043-011,True,"BWDB Division Office Compound, Gaibandha Sadar, Gaibandha",0.0,76.03,0.1325,6,ocr+step,3.0,
+img-043-012,True,"BWDB O&M Subdivision Office Compound, Kurigram Sadar, Kurigram",0.0,100.49,0.1871,14,ocr+step,4.0,0.9
+img-043-013,True,"BWDB O&M Division Office Compound, Panchagarh Sadar, Panchagarh",0.0,122.11,0.2105,18,ocr,8.0,9.95
+img-043-014,True,"BWDB Office Compound, Tetulia, Panchagarh",0.0,46.11,0.121,5,ocr,2.0,10.05
+img-043-015,True,"BWDB Teesta Bhaban Compound, Rangpur Sadar, Rangpur",0.0,260.27,0.4566,27,ocr+step,3.0,49.86
+img-043-016,True,"BWDB O&M Circle Office Compound, Thakurgaon Sadar, Thakurgaon",0.0,304.49,0.5277,39,ocr+step,5.0,
+img-044-017,True,"BWDB O&M Division Office Compound, Saidpur, Nilphamari",0.0,305.57,0.5305,30,ocr,3.0,9.99
+img-044-018,True,"BWDB Office Compound, Dimla, Nilphamari",0.0,204.24,0.3142,18,ocr,4.0,9.99
+img-044-019,True,"BWDB Officers Colony, Banani. Dhaka",0.0,292.82,0.5525,22,ocr+step,5.0,
+img-044-020,True,"BWDB Campus, Motiiheel. Dhaka",0.0,305.26,0.4939,22,ocr,4.0,9.98
+img-044-021,True,"BWDB Subdivision Office, Jatrabari, Dhaka",0.0,305.41,0.4918,14,ocr+step,5.0,
+img-045-022,True,"BWDB Office Compound, Manikganj Sadar, Manikganj",0.0,177.22,0.2959,11,ocr,2.0,9.99
+img-045-023,True,"BWDB Training Institute Compound, Sreenagar, Munshiganj",0.0,307.65,0.5666,13,ocr+step,5.0,
+img-045-024,True,"BWDB Subdivision Office Compound, Narayonganj Sadar, Narayonganj",0.0,304.47,0.5447,6,ocr+step,4.0,
+img-045-025,True,"BWDB Subdivision Office Compound, Rupganj, Narayonganj",0.0,306.63,0.5305,14,ocr+step,5.0,
+img-045-026,True,"BWDB Subdivision Office Compound, Shimrail, Narayonganij",0.0,305.8,0.547,43,ocr+step,7.0,
+img-045-027,True,"BWDB O&M Division Office Compound, Narsingdi Sadar, Narsingdi",0.0,305.79,0.5263,19,ocr,4.0,9.98
+img-045-028,True,"BWDB O&M Subdivision Office Compound, Tangail Sadar, Tangail",0.0,76.32,0.1471,11,ocr+step,3.0,
+img-045-029,True,"BWDB Division Office Compound, Jamalpur Sadar, Jamalpur",0.0,152.76,0.3456,10,10 m ticks,0.0,10.0
+img-045-030,True,"BWDB Subdivision Office Compound, Mymenshing Sadar, Mymenshing",0.0,305.53,0.5268,17,ocr+step,6.0,
+img-046-031,True,"BWDB Division Office Compound, Sherpur Sadar, Sherpur",0.0,190.05,0.3243,10,ocr,2.0,10.0
+img-046-032,True,"BWDB Office Compound, Chapainawabganj Sadar, Chapainawabganj",0.0,64.35,0.1226,13,ocr+step,2.0,
+img-046-033,True,"BWDB O&M Division Office Compound, Naogaon Sadar, Naogaon",0.0,67.27,0.1253,4,ocr,3.0,10.0
+img-046-034,True,"BWDB O&M Division Office Compound, Natore Sadar, Natore",0.0,183.23,0.3226,10,ocr+step,4.0,9.43
+img-046-035,True,"BWDB Subdivision Office Compound, Pabna Sadar, Pabna",0.0,193.04,0.3375,16,10 m ticks,1.0,10.0
+img-046-036,True,"BWDB Division Office Compound, Rajshahi Sadar, Rajshahi",0.0,82.5,0.1471,3,ocr,3.0,10.0
+img-046-037,True,"BWDB O&M Subdivision Office Compound, Ullapara, Sirajganj",0.0,171.19,0.3311,12,ocr+step,3.0,
+img-046-038,True,"BWDB Subdivision Office Compound, Kishoreganj Sadar, Kishoreganj",0.0,306.17,0.6236,22,ocr,6.0,20.04
+img-046-039,True,"BWDB Office Compound, B. Baria Sadar, Brahmanbaria",0.0,306.28,0.5236,30,ocr,3.0,10.04
+img-047-040,True,"BWDB O&M Office Compound, Bogura Sadar, Bogura",0.0,301.66,0.5938,19,ocr,5.0,9.98
+img-047-041,True,"BWDB O&M Subdivision Compound, Sariakandi, Bogura",0.0,155.74,0.3191,10,manual,,10.0
+img-047-042,True,"BWDB Subdivision Office Compound, Sondwip, Chittagong",0.0,302.64,0.5282,23,10 m ticks,1.0,10.0
+img-047-043,True,"BWDB Subdivision Office Compound, Radarkhali. Chakaria. Cox's Bazar",0.0,302.03,0.5797,23,ocr+step,5.0,
+img-047-044,True,"BWDB Subdivision Office Compound, Hatiya, Noakhali",0.0,304.44,0.5222,47,ocr+step,5.0,
+img-048-045,True,"CDSP Office Compound, Charmojad, Noakhali Sadar, Noakhali",0.0,305.94,0.5396,35,10 m ticks,0.0,10.0
+img-048-046,True,"BIP BWDB Colony, Bhola Sadar, Bhola",0.0,305.52,0.5332,41,ocr+step,6.0,
+img-048-047,True,"BWDB Rest House Compound, Kalapara, Patuakhali",0.0,303.68,0.5452,22,ocr,6.0,10.03
+img-048-048,True,"BWDB Office Compound, Patuakhali Sadar, Patuakhali",0.0,300.36,0.4708,49,10 m ticks,1.0,10.0
+img-048-049,True,"BWDB O&M Division Office Compound, Pirojpur Sadar, Pirojpur",0.0,305.82,0.5291,22,ocr,4.0,9.98
+img-048-050,True,"BWDB O & M Subdivision Compound, Rayenda, Bagerhat",0.0,305.24,0.5245,30,manual,,
+img-048-051,True,"BWDB Subdivision Office Compound, Chuadanga Sadar, Chuadanga",0.0,128.43,0.2676,16,ocr,3.0,9.97
+img-048-052,True,"BWDB O&M Division Office Compound, Jessore Sadar, Jessore",0.0,232.66,0.4644,17,ocr,3.0,20.9
+img-048-053,True,"BWDB Office Compound, Dumuria, Khulna",0.0,306.25,0.5062,24,ocr,6.0,10.0
+img-049-054,True,"BWDB Office Compound, Paikgasa, Khulna",0.0,286.65,0.4684,48,ocr+step,5.0,
+img-049-055,True,"BWDB Subdivision Office Compound, Amla, Mirpur, Kushtia",0.0,140.91,0.2841,5,ocr,3.0,5.01
+img-049-056,True,"BWDB Subdivision Office Compound, Baradi, Kushtia",0.0,109.85,0.1894,8,ocr,5.0,9.98
+img-049-057,True,"BWDB O&M Subdivision Office Compound, Magura Sadar, Magura",0.0,305.86,0.5329,21,manual,,
+img-049-058,True,"BWDB Office Compound, Lohagara, Narail",0.0,306.05,0.4651,32,ocr,3.0,10.02
+img-049-059,True,"BWDB Office Compound, Asashuni, Satkhaira",0.0,287.63,0.5376,30,ocr,5.0,10.0
+img-049-060,True,"BWDB Subdivision Office Compound, Bhanga, Faridpur",0.0,307.04,0.5415,29,manual,,20.0
+img-049-061,True,"BWDB Subdivision Office Compound, Faridpur Sadar, Faridpur",0.0,109.73,0.1956,3,ocr,4.0,9.93
+img-049-062,True,"BWDB O&M Division Office Compound, Madaripur Sadar, Madaripur",0.0,305.21,0.5208,27,ocr+step,5.0,
+img-050-063,True,"BWDB Subdivision Office Compound, Rajbari Sadar, Rajbari",0.0,299.26,0.5142,33,10 m ticks,1.0,10.0
+img-050-064,True,"BWDB Division Office Compound, Gopalganj Sadar, Gopalganj",0.0,305.24,0.4762,18,ocr,6.0,9.98
+img-050-065,True,"BWDB O&M Subdivision Compound, Gournadi, Barisal",0.0,304.84,0.5376,28,ocr,6.0,9.96
+img-050-066,True,"BWDB Rest House Compound, J7okigani. Svihet",0.0,304.65,0.5814,13,ocr,5.0,9.98
+img-050-067,True,"BWDB Rest House Compound, Derai, Sunamganj",0.0,306.26,0.5244,15,10 m ticks,0.0,10.0
+img-050-068,True,"BWDB Office Compound, Habiganj Sadar, Habiganj",0.0,304.88,0.4742,28,ocr,4.0,9.97

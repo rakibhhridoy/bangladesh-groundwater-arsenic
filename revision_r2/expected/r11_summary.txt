@@ -1,0 +1,34 @@
+logs 69; matched to nests 67 (by name 65, by depth 2, ambiguous excluded 2)
+logged wells 268 in 67 nests; median depth 100 m; wells deeper than their log dropped: 1
+deposit age: {'other': 152, 'Holocene': 79, 'Pleistocene': 37}
+well depth falls in sand: 85.8% (230/268); lithology at depth: {'fine sand': 113, 'very fine sand': 73, 'silt/silty clay': 36, 'medium sand': 35, 'coarse sand': 9, 'clay': 2}
+first aquifer (no >= 5 m aquitard above): 139 wells; beneath aquitard: 129
+
+[1] arsenic by aquifer position (all logged wells)
+  beneath aquitard  n=129 median As   4.47 exceed  20.9% median depth 184 m
+  first aquifer     n=139 median As   5.98 exceed  40.3% median depth 51 m
+  Mann-Whitney p = 0.0058
+
+[2] arsenic vs fine-grained thickness above the well
+  Spearman rho = -0.072 (p=0.24); partial on depth = +0.010 [-0.16, +0.18]
+  surface clay-cap thickness vs As: rho = +0.196 (p=0.0013)
+
+[3] Holocene vs Pleistocene among logged wells
+  all logged wells           HOL  59.5% [46.1-72.2] n= 79 (20 nests) | OLD   2.7% [0.0-9.1] n= 37 (9 nests)
+  first aquifer              HOL  75.6% [56.8-89.1] n= 41 (17 nests) | OLD   5.6% [0.0-15.0] n= 18 (8 nests)
+  beneath aquitard           HOL  42.1% [25.7-55.8] n= 38 (14 nests) | OLD   0.0% [0.0-0.0] n= 19 (6 nests)
+  first aquifer (10 m rule)  HOL  68.8% [48.9-85.1] n= 48 (17 nests) | OLD   4.8% [0.0-14.3] n= 21 (8 nests)
+  in sand at depth           HOL  60.0% [46.2-73.2] n= 65 (20 nests) | OLD   3.1% [0.0-10.3] n= 32 (9 nests)
+  matched by name only       HOL  57.3% [43.8-69.7] n= 75 (19 nests) | OLD   3.1% [0.0-10.3] n= 32 (8 nests)
+
+[4] rank regression, rank(As) ~ age + depth + aquifer position + fine thickness (Holocene/Pleistocene wells)
+  hol    +0.391  SE 0.050  p=4.3e-15
+  rdep   +0.049  SE 0.102  p=0.63
+  fa     +0.115  SE 0.096  p=0.23
+  rfine  -0.192  SE 0.144  p=0.18
+  R2 full 0.459; without deposit age 0.116; unique share of age 0.344
+  R2 age + depth only 0.390; adding aquifer position and fine thickness +0.069
+
+[5] As-PO4 association among logged wells
+  first aquifer     n=139 rho +0.429 (p=1.3e-07)
+  beneath aquitard  n=129 rho +0.353 (p=4.1e-05)
