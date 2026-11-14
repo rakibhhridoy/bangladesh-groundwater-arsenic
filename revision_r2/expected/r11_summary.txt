@@ -12,6 +12,12 @@ first aquifer (no >= 5 m aquitard above): 139 wells; beneath aquitard: 129
 [2] arsenic vs fine-grained thickness above the well
   Spearman rho = -0.072 (p=0.24); partial on depth = +0.010 [-0.16, +0.18]
   surface clay-cap thickness vs As: rho = +0.196 (p=0.0013)
+  median surface cap: Holocene 12.4 m, Pleistocene 5.0 m
+    within Holocene    rho = -0.026 (p=0.82)
+    within Pleistocene rho = -0.257 (p=0.12)
+    within other       rho = +0.088 (p=0.28)
+    by site (n=67, median As) rho = +0.202 (p=0.1)
+    with deposit age and depth: cap -0.054 (p=0.61), age +0.385 (p=2.1e-11)
 
 [3] Holocene vs Pleistocene among logged wells
   all logged wells           HOL  59.5% [46.1-72.2] n= 79 (20 nests) | OLD   2.7% [0.0-9.1] n= 37 (9 nests)

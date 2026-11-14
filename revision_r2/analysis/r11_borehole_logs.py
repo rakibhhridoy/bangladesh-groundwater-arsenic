@@ -147,6 +147,18 @@ def main():
     P(f"  Spearman rho = {rho.statistic:+.3f} (p={rho.pvalue:.2g}); partial on depth = {pr:+.3f} [{ci[0]:+.2f}, {ci[1]:+.2f}]")
     sc = stats.spearmanr(x.surface_cap_m, x.As)
     P(f"  surface clay-cap thickness vs As: rho = {sc.statistic:+.3f} (p={sc.pvalue:.2g})")
+    capmed = x.groupby("age").surface_cap_m.median()
+    P(f"  median surface cap: Holocene {capmed['Holocene']:.1f} m, Pleistocene {capmed['Pleistocene']:.1f} m")
+    capw = {g: stats.spearmanr(s.surface_cap_m, s.As) for g, s in x.groupby("age")}
+    for g, r in capw.items(): P(f"    within {g:11s} rho = {r.statistic:+.3f} (p={r.pvalue:.2g})")
+    ns = x.groupby("nest").agg(cap=("surface_cap_m", "first"), As=("As", "median"))
+    capn = stats.spearmanr(ns.cap, ns.As)
+    P(f"    by site (n={len(ns)}, median As) rho = {capn.statistic:+.3f} (p={capn.pvalue:.2g})")
+    yc = x[x.age.isin(["Holocene", "Pleistocene"])].copy()
+    yc["rAs"] = rankdata(yc.As) / len(yc); yc["hol"] = (yc.age == "Holocene").astype(int)
+    yc["rdep"] = rankdata(yc.depth) / len(yc); yc["rcap"] = rankdata(yc.surface_cap_m) / len(yc)
+    mc = smf.ols("rAs ~ hol + rdep + rcap", yc).fit(cov_type="cluster", cov_kwds={"groups": pd.factorize(yc.nest)[0]})
+    P(f"    with deposit age and depth: cap {mc.params['rcap']:+.3f} (p={mc.pvalues['rcap']:.2g}), age {mc.params['hol']:+.3f} (p={mc.pvalues['hol']:.2g})")
 
     P("\n[3] Holocene vs Pleistocene among logged wells")
     tab = []
@@ -199,7 +211,13 @@ def main():
            f"above the WHO guideline, with 95\\% intervals from a bootstrap over sites; n is wells (sites). "
            f"Against the aquifer boundaries stated in the text of the source report for seven sites, the digitised logs agree "
            f"to a median of {vb.error_m.abs().median():.1f}~m ({(vb.error_m.abs()<=2.2).sum()} of {len(vb)} boundaries within 2.2~m) "
-           f"and total depths to within {vt.error_m.abs().max():.1f}~m.")
+           f"and total depths to within {vt.error_m.abs().max():.1f}~m. "
+           f"The thickness of the fine-grained cap at the surface correlates with arsenic across all logged wells "
+           f"($\\rho = {sc.statistic:+.2f}$, $p = {sc.pvalue:.3f}$), but Holocene sites carry thicker caps "
+           f"(median {capmed['Holocene']:.1f}~m against {capmed['Pleistocene']:.1f}~m on Pleistocene sites) and the association "
+           f"does not hold within either deposit type (Holocene $\\rho = {capw['Holocene'].statistic:+.2f}$, "
+           f"Pleistocene $\\rho = {capw['Pleistocene'].statistic:+.2f}$), by site ($\\rho = {capn.statistic:+.2f}$, "
+           f"$p = {capn.pvalue:.2f}$, {len(ns)} sites) or once deposit type and depth enter the rank regression ($p = {mc.pvalues['rcap']:.2f}$).")
     tex = ("\\begin{table}[H]\n\\centering\n\\caption{" + cap + "}\n\\label{tab:s_logs}\n\\small\n"
            "\\begin{tabular}{lcccc}\n\\toprule\n & \\multicolumn{2}{c}{\\textbf{Holocene}} & \\multicolumn{2}{c}{\\textbf{Pleistocene}} \\\\\n"
            "\\textbf{Subset} & \\textbf{\\% $>$WHO} & \\textbf{n} & \\textbf{\\% $>$WHO} & \\textbf{n} \\\\\n\\midrule\n"

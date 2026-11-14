@@ -3,7 +3,8 @@ figure (JHMRevision/make_figures_hq.py: fig_h2_spline), with three changes:
 panel A drops the 68 m crossover line and its CI band (crossover depth withdrawn,
 see analysis/r07) and adds well-level bootstrap 95% bands; panels B and D use the
 class partials As-PO4|Fe and As-Fe|PO4 of the revised table (analysis/r03), with
-bootstrap 95% CIs in D. Panels C unchanged."""
+bootstrap 95% CIs in D. Panel C draws arsenic in the warm arsenic ramp
+(it used the phosphate colour in the submitted figure)."""
 import os
 from pathlib import Path
 import sys, numpy as np, pandas as pd
@@ -48,6 +49,10 @@ code=code.replace("""    axD.bar(x-w/2, pc['PO43-'], w, color=fs.PO4, label=r'PO
             linewidth=0.3, hatch=fs.HATCH_2)
     axD.axhline(0, color=fs.INK, lw=0.6)""")
 code=code.replace("axD.set_ylim(0, max(pc['PO43-'].max(), pc['Fe2+'].max())*1.28)","axD.set_ylim(min(-0.06, ci['plo'].min()-0.02), max(ci['phi'].max(), pc['Fe2+'].max())*1.22)")
+# panel C: arsenic in the warm arsenic ramp, not the phosphate colour
+code=code.replace("axC.fill_between(mid, q1, q3, color=fs.PO4, alpha=0.18","axC.fill_between(mid, q1, q3, color=fs.WARMR[4], alpha=0.22")
+code=code.replace("axC.plot(mid, med, 'o-', color=fs.PO4,","axC.plot(mid, med, 'o-', color=fs.WARM2,")
+assert "fs.PO4, alpha=0.18, lw=0, label='interquartile" not in code
 ns={**M.__dict__}; 
 t=pd.read_csv(f"{R}/revision_r2/output/r03_depthwise_correlations.csv").set_index('group')
 rows=['<30 m','30-80 m','80-150 m','>150 m']
